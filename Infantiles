@@ -1,0 +1,32 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="BabyTV.mx" tvg-name="Baby TV MX" tvg-logo="http://1.bp.blogspot.com/-MSnZMkT2IJU/WgZZLzn9w5I/AAAAAAAAChg/C-WBGNSkTrct6lYz_OddYe2qVj7eVFAzACK4BGAYYCw/s1600/babytv.jpg" group-title="INFANTILES",[B][COLOR blue]•   [/B][/COLOR]Baby TV 
+plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/408.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
+#EXTINF:-1 tvg-id="Boomerang.mx" tvg-name="Boomerang MX" tvg-logo="http://2.bp.blogspot.com/-DWasMbvRKwI/WgZZKsP3tpI/AAAAAAAAChA/P8G84uvZ7ZYhGkEAgK99SUKFjSepakpMwCK4BGAYYCw/s1600/bomby.jpg" group-title="INFANTILES",[B][COLOR blue]•   [/B][/COLOR]Boomerang 
+plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/52.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network MX" tvg-logo="http://2.bp.blogspot.com/-YVIjbEKYi-8/WgZZNK2xyII/AAAAAAAACiA/o3GDFF8_bacPy2FauKw6MAXJdjpyTl2bQCK4BGAYYCw/s1600/cartonnet.jpg" group-title="INFANTILES",[B][COLOR blue]•   [/B][/COLOR]Cartoon Network 
+plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/50.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
+#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids MX" tvg-logo="http://1.bp.blogspot.com/-UtpfWYCVggA/WgZZJB6QO6I/AAAAAAAACgY/ELcQ56CFVJARmZXvdLwn9ZwL6R6hTFYrgCK4BGAYYCw/s1600/dk.jpg" group-title="INFANTILES",[B][COLOR blue]•   [/B][/COLOR]Discovery Kids 
+plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/42.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
+#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="Disney Junior MX" tvg-logo="http://1.bp.blogspot.com/-rEkKtI4JXw0/WgZZLZ-jnvI/AAAAAAAAChY/5Pe7lW-r_kYWGR0jgkq3-D5dt-Wa6dV6ACK4BGAYYCw/s1600/diy.jpg" group-title="INFANTILES",[B][COLOR blue]•   [/B][/COLOR]Disney Junior 
+plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/44.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
+#EXTINF:-1 tvg-id="Disney.mx" tvg-name="Disney MX" tvg-logo="http://1.bp.blogspot.com/-y4JJY9j4zEc/WgZZJa_PjUI/AAAAAAAACgg/-1_5UGOYsvAefieo1WrLWNHVQ8QgnbNgwCK4BGAYYCw/s1600/disnch.jpg" group-title="INFANTILES",[B][COLOR blue]•   [/B][/COLOR]Disney 
+plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/46.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
+#EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="Disney XD MX" tvg-logo="http://1.bp.blogspot.com/-clJ6DxghpaU/WgZZMti6A5I/AAAAAAAACh4/dInBD-vUJIE4Pwd_xAqxqaqYuFtItQYBACK4BGAYYCw/s1600/xd.jpg" group-title="INFANTILES",[B][COLOR blue]•   [/B][/COLOR]Disney XD 
+plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/51.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
+#EXTINF:-1 tvg-id="FoxFamily.mx" tvg-name="Fox Family MX" tvg-logo="http://3.bp.blogspot.com/-dfj5AagCVX4/WgZZIg7QWUI/AAAAAAAACgI/xHSX_6MnCLctrMP4GOFZVpHK_lOZnmsmgCK4BGAYYCw/s1600/fgfd.jpg" group-title="INFANTILES",[B][COLOR blue]•   [/B][/COLOR]Fox Family 
+plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/186.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS" tvg-logo="http://2.bp.blogspot.com/-uvCvobKaP9E/WgZZKIoJXMI/AAAAAAAACg4/xEQCRr7FETwnZ4uXwKR8QLIAN7194b7zACK4BGAYYCw/s1600/fvg.jpg" group-title="INFANTILES",[B][COLOR blue]•   [/B][/COLOR]NAT GEO KIDS
+plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/3280.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
+#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="Nickelodeon MX" tvg-logo="http://3.bp.blogspot.com/-oBKJ4SAmvIs/WgZZLO0Kn7I/AAAAAAAAChM/J0mcz1nXVZwN5P8qgUb1BaFqJ94zvWNwACK4BGAYYCw/s1600/nichelodium.jpg" group-title="INFANTILES",[B][COLOR blue]•   [/B][/COLOR]Nickelodeon 
+plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/49.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
+#EXTINF:-1 tvg-id="Nickelodeon2.mx" tvg-name="Nickelodeon 2 MX" tvg-logo="http://3.bp.blogspot.com/-NbanxN2Z9JA/WgZZJO7eOWI/AAAAAAAACgU/tGXyGY-R6PwqbC91Fh7d8K8_91AcBDJdACK4BGAYYCw/s1600/nick2.jpg" group-title="INFANTILES",[B][COLOR blue]•   [/B][/COLOR]Nickelodeon 2 
+plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/48.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
+#EXTINF:-1 tvg-id="NickJr..mx" tvg-name="Nick Jr. MX" tvg-logo="http://1.bp.blogspot.com/-rEkKtI4JXw0/WgZZLZ-jnvI/AAAAAAAAChY/5Pe7lW-r_kYWGR0jgkq3-D5dt-Wa6dV6ACK4BGAYYCw/s1600/diy.jpg" group-title="INFANTILES",[B][COLOR blue]•   [/B][/COLOR]Nick Jr. 
+plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/45.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
+#EXTINF:-1 tvg-id="Nicktoons.de" tvg-name="NICK TOONS" tvg-logo="http://2.bp.blogspot.com/-oM6Btm_T0N4/WgZZJz1mkUI/AAAAAAAACgs/cV1gVCuYyRoDZN2GKV8dQNLwae7o6-ixACK4BGAYYCw/s1600/frdf.jpg" group-title="INFANTILES",[B][COLOR blue]•   [/B][/COLOR]NICK TOONS
+plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/47.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
+#EXTINF:-1 tvg-id="TiiN.mx" tvg-name="TiiN MX" tvg-logo="http://3.bp.blogspot.com/-5TeqqoRUtAg/WgZZMYtt9lI/AAAAAAAAChs/3GDyTMlhm-En3n5Y87fzL4u9FJJy_--rACK4BGAYYCw/s1600/tiin.jpg" group-title="INFANTILES",[B][COLOR blue]•   [/B][/COLOR]TiiN 
+plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/53.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
+#EXTINF:-1 tvg-id="Tooncast.co" tvg-name="Tooncast" tvg-logo="http://3.bp.blogspot.com/-SV2Q_lj6Fbk/WgZZJ_wTIlI/AAAAAAAACg0/Zx3QilvZEkofzuGZE5D6p8TutbP3mHzMQCK4BGAYYCw/s1600/fdfdf.jpg" group-title="INFANTILES",[B][COLOR blue]•   [/B][/COLOR]Tooncast
+plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/54.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka

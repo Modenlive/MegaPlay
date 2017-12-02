@@ -1,0 +1,20 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="evento1" tvg-name="EVENTO 1" tvg-logo="https://1.bp.blogspot.com/-dc2bPXMgZqA/Wgmk9CEtNwI/AAAAAAAACig/SgTfCOo3vuYUa23bbDFokFiQHt_MqIvdgCK4BGAYYCw/s320/eventos.jpg" group-title="EVENTOS",[B][COLOR blue]•   [/B][/COLOR]EVENTO 1
+plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/gustavoa/lachannel/469.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
+#EXTINF:-1 tvg-id="evento2" tvg-name="EVENTO 2" tvg-logo="https://1.bp.blogspot.com/-dc2bPXMgZqA/Wgmk9CEtNwI/AAAAAAAACig/SgTfCOo3vuYUa23bbDFokFiQHt_MqIvdgCK4BGAYYCw/s320/eventos.jpg" group-title="EVENTOS",[B][COLOR blue]•   [/B][/COLOR]EVENTO 2
+plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/gustavoa/lachannel/470.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
+#EXTINF:-1 tvg-id="evento3" tvg-name="EVENTO 3" tvg-logo="https://1.bp.blogspot.com/-dc2bPXMgZqA/Wgmk9CEtNwI/AAAAAAAACig/SgTfCOo3vuYUa23bbDFokFiQHt_MqIvdgCK4BGAYYCw/s320/eventos.jpg" group-title="EVENTOS",[B][COLOR blue]•   [/B][/COLOR]EVENTO 3
+plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/gustavoa/lachannel/471.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
+#EXTINF:-1 tvg-id="evento4" tvg-name="EVENTO 4" tvg-logo="https://1.bp.blogspot.com/-dc2bPXMgZqA/Wgmk9CEtNwI/AAAAAAAACig/SgTfCOo3vuYUa23bbDFokFiQHt_MqIvdgCK4BGAYYCw/s320/eventos.jpg" group-title="EVENTOS",[B][COLOR blue]•   [/B][/COLOR]EVENTO 4
+plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/gustavoa/lachannel/1747.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
+#EXTINF:-1 tvg-id="evento5" tvg-name="EVENTO 5" tvg-logo="https://1.bp.blogspot.com/-dc2bPXMgZqA/Wgmk9CEtNwI/AAAAAAAACig/SgTfCOo3vuYUa23bbDFokFiQHt_MqIvdgCK4BGAYYCw/s320/eventos.jpg" group-title="EVENTOS",[B][COLOR blue]•   [/B][/COLOR]EVENTO 5
+plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/gustavoa/lachannel/1748.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
+#EXTINF:-1 tvg-id="evento6" tvg-name="EVENTO 6" tvg-logo="https://1.bp.blogspot.com/-dc2bPXMgZqA/Wgmk9CEtNwI/AAAAAAAACig/SgTfCOo3vuYUa23bbDFokFiQHt_MqIvdgCK4BGAYYCw/s320/eventos.jpg" group-title="EVENTOS",[B][COLOR blue]•   [/B][/COLOR]EVENTO 6
+plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/gustavoa/lachannel/1749.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
+#EXTINF:-1 tvg-id="evento7" tvg-name="EVENTO 7" tvg-logo="https://1.bp.blogspot.com/-dc2bPXMgZqA/Wgmk9CEtNwI/AAAAAAAACig/SgTfCOo3vuYUa23bbDFokFiQHt_MqIvdgCK4BGAYYCw/s320/eventos.jpg" group-title="EVENTOS",[B][COLOR blue]•   [/B][/COLOR]EVENTO 7
+plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/gustavoa/lachannel/1750.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
+#EXTINF:-1 tvg-id="evento8" tvg-name="EVENTO 8" tvg-logo="https://1.bp.blogspot.com/-dc2bPXMgZqA/Wgmk9CEtNwI/AAAAAAAACig/SgTfCOo3vuYUa23bbDFokFiQHt_MqIvdgCK4BGAYYCw/s320/eventos.jpg" group-title="EVENTOS",[B][COLOR blue]•   [/B][/COLOR]EVENTO 8
+plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/gustavoa/lachannel/lachannel/1751.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
+#EXTINF:-1 tvg-id="evento9" tvg-name="EVENTO 9" tvg-logo="https://1.bp.blogspot.com/-dc2bPXMgZqA/Wgmk9CEtNwI/AAAAAAAACig/SgTfCOo3vuYUa23bbDFokFiQHt_MqIvdgCK4BGAYYCw/s320/eventos.jpg" group-title="EVENTOS",[B][COLOR blue]•   [/B][/COLOR]EVENTO 9
+plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/gustavoa/lachannel/1752.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka

@@ -1,0 +1,182 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="A+V" tvg-logo="https://s18.postimg.org/8vbt2p2ex/a_2_Bv.jpg" group-title="URUGUAY",A+V
+http://158.69.52.43:8000/live/elec/6070/3204.m3u8
+#EXTINF:-1 tvg-id="Canal4.cr" tvg-name="CANAL 4 HD (URU)" tvg-logo="https://s18.postimg.org/e6qpnrr61/canal_4.jpg" group-title="URUGUAY",CANAL 4 HD 
+http://158.69.52.43:8000/live/elec/6070/413.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s5.postimg.org/4l2wu32o7/television_nacional.jpg" group-title="URUGUAY",CANAL 5 
+http://158.69.52.43:8000/live/elec/6070/1599.m3u8
+#EXTINF:-1 tvg-id="canal10uru" tvg-name="CANAL 10 (URU)" tvg-logo="https://s5.postimg.org/u3v97cel3/canal_10.jpg" group-title="URUGUAY",CANAL 10 
+http://158.69.52.43:8000/live/elec/6070/414.m3u8
+#EXTINF:-1 tvg-id="canal12uru" tvg-name="CANAL 12 (URU)" tvg-logo="https://s5.postimg.org/osgcmn087/tele.jpg" group-title="URUGUAY",CANAL 12 
+http://api.new.livestream.com/accounts/13567583/events/6415731/live.m3u8
+#EXTINF:-1 tvg-id="tv ciudad" tvg-name="TV CIUDAD HD (URU)" tvg-logo="https://s5.postimg.org/72eo1lud3/tv_ciudad.jpg" group-title="URUGUAY",TV CIUDAD HD (URU)
+http://158.69.52.43:8000/live/elec/6070/1601.m3u8
+#EXTINF:-1 tvg-id="vera plus" tvg-name="VERA HD (URU)" tvg-logo="https://s5.postimg.org/n0ndrqwav/vera_tv_2_B.jpg" group-title="URUGUAY",VERA PLUS HD (URU)
+http://158.69.52.43:8000/live/elec/6070/1600.m3u8
+#EXTINF:-1 tvg-id="charrua" tvg-name="CHARRUA TV (URU)" tvg-logo="https://s5.postimg.org/gmyaoitzr/charruatv.jpg" group-title="URUGUAY",CHARRUA TV (URU)
+http://158.69.52.43:8000/live/elec/6070/2968.m3u8
+#EXTINF:-1 tvg-id="vtv" tvg-name="VTV SD (URU)" tvg-logo="https://s5.postimg.org/nderxzz5z/vtv.jpg" group-title="URUGUAY",VTV SD 
+http://158.69.52.43:8000/live/elec/6070/1450.m3u8
+#EXTINF:-1 tvg-id="vtvhd" tvg-name="VTV HD (URU)" tvg-logo="https://s5.postimg.org/nderxzz5z/vtv.jpg" group-title="URUGUAY",VTV HD 
+http://158.69.52.43:8000/live/elec/6070/493.m3u8
+#EXTINF:-1 tvg-id="vtvplus" tvg-name="VTV PLUS (URU)" tvg-logo="https://s5.postimg.org/48bio8zxj/vtv_2_B.jpg" group-title="URUGUAY",VTV + 
+http://158.69.52.43:8000/live/elec/6070/494.m3u8
+
+
+Argentina
+
+#EXTINF:-1 tvg-id="America24.ar" tvg-name="America 24 AR" tvg-logo="https://s6.postimg.org/6nc5in4nl/a24.png" group-title="ARGENTINA",America 24 AR
+http://158.69.52.43:8000/live/elec/6070/1026.m3u8
+#EXTINF:-1 tvg-id="America2.ar" tvg-name="America 2 AR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/America_2_logo.png" group-title="ARGENTINA",America 2 AR
+http://158.69.52.43:8000/live/elec/6070/1019.m3u8
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N AR" tvg-logo="https://s6.postimg.org/rlibgq4i9/C5N.png" group-title="ARGENTINA",C5N AR
+http://158.69.52.43:8000/live/elec/6070/1024.m3u8
+#EXTINF:-1 tvg-id="Canal9.ar" tvg-name="Canal 9 AR" tvg-logo="http://www.ushuaiavision.com.ar/images/canales/canal9.png" group-title="ARGENTINA",Canal 9 AR
+http://158.69.52.43:8000/live/elec/6070/1023.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El Trece" tvg-logo="http://158.69.52.43:8000/imagenes/1020.jpg" group-title="ARGENTINA",El Trece
+http://158.69.52.43:8000/live/elec/6070/1020.m3u8
+#EXTINF:-1 tvg-id="Telefe.cl" tvg-name="Telefe CL" tvg-logo="https://s6.postimg.org/qj6rc26vl/telefe.png" group-title="ARGENTINA",Telefe CL
+http://158.69.52.43:8000/live/elec/6070/1021.m3u8
+#EXTINF:-1 tvg-id="247Noticias.ar" tvg-name="Todo Noticias AR" tvg-logo="https://s6.postimg.org/k33rlu2j5/tn.png" group-title="ARGENTINA",Todo Noticias AR
+http://158.69.52.43:8000/live/elec/6070/1025.m3u8
+#EXTINF:-1 tvg-id="26Tv.ar" tvg-name="Canal 26" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" group-title="ARGENTINA",Canal 26
+http://158.69.52.43:8000/live/elec/6070/1033.m3u8
+#EXTINF:-1 tvg-id="cronicatv" tvg-name="Cronica TV" tvg-logo="https://s6.postimg.org/aoxu21mc1/cronica_tv.png" group-title="ARGENTINA",Cronica TV
+http://158.69.52.43:8000/live/elec/6070/1028.m3u8
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Encuentro AR" tvg-logo="https://s6.postimg.org/dyc98iafl/encu.png" group-title="ARGENTINA",Encuentro AR
+http://158.69.52.43:8000/live/elec/6070/1032.m3u8
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Publica AR" tvg-logo="http://static.iptv-epg.com/ar/TVPublica.ar.png" group-title="ARGENTINA",TV Publica AR
+http://158.69.52.43:8000/live/elec/6070/1022.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="A+" tvg-logo="http://158.69.52.43:8000/imagenes/2281.jpg" group-title="MEXICO",A+
+http://158.69.52.43:8000/live/elec/6070/2281.m3u8
+#EXTINF:-1 tvg-id="adn" tvg-name="ADN 40" tvg-logo="http://www.adn40.mx/images/adn40.png" group-title="MEXICO",ADN 40
+http://158.69.52.43:8000/live/elec/6070/9.m3u8
+#EXTINF:-1 tvg-id="azteclic" tvg-name="AZTECA CLIC MX" tvg-logo="https://s6.postimg.org/ia5enpu8h/azclic.png" group-title="MEXICO",AZTECA CLIC MX
+http://158.69.52.43:8000/live/elec/6070/101.m3u8
+#EXTINF:-1 tvg-id="AzMundo.co" tvg-name="Azteca mundo MX" tvg-logo="https://s6.postimg.org/lwb80d0lt/azmundo.png" group-title="MEXICO",Azteca mundo MX
+http://158.69.52.43:8000/live/elec/6070/40.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7 MX" tvg-logo="https://s6.postimg.org/x47hok1u9/azt7hd.png" group-title="MEXICO",Azteca 7 MX
+http://158.69.52.43:8000/live/elec/6070/5.m3u8
+#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="Azteca Corazon MX" tvg-logo="https://s6.postimg.org/uq24hgnkh/azcorazon.png" group-title="MEXICO",Azteca Corazon MX
+http://158.69.52.43:8000/live/elec/6070/27.m3u8
+#EXTINF:-1 tvg-id="Azteca13.mx" tvg-name="Azteca 13 MX" tvg-logo="https://s6.postimg.org/jkv8wld8x/azteca-13-hd.png" group-title="MEXICO",Azteca 13 MX
+http://158.69.52.43:8000/live/elec/6070/8.m3u8
+#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="Canal 11 MX" tvg-logo="https://s6.postimg.org/wn3fzs3m9/oncetv.png" group-title="MEXICO",Canal 11 MX
+http://158.69.52.43:8000/live/elec/6070/7.m3u8
+#EXTINF:-1 tvg-id="5Nacional.mx" tvg-name="Canal 5" tvg-logo="https://s6.postimg.org/wv9wymp1t/5hd.png" group-title="MEXICO",Canal 5
+http://158.69.52.43:8000/live/elec/6070/3.m3u8
+#EXTINF:-1 tvg-id="5Nacional.mx" tvg-name="Canal 5 HD" tvg-logo="https://s6.postimg.org/mjeq3mmvl/canal5HD_(1).png" group-title="MEXICO",Canal 5 HD
+http://158.69.52.43:8000/live/elec/6070/149.m3u8
+#EXTINF:-1 tvg-id="EfektoTVNoticias.mx" tvg-name="Efekto Tv MX" tvg-logo="https://s6.postimg.org/msxxrog9d/Efekto_tv.png" group-title="MEXICO",Efekto Tv MX
+http://158.69.52.43:8000/live/elec/6070/190.m3u8
+#EXTINF:-1 tvg-id="ForoTv.mx" tvg-name="Foro Tv MX" tvg-logo="https://s6.postimg.org/i02hi4501/forotv.png" group-title="MEXICO",Foro Tv MX
+http://158.69.52.43:8000/live/elec/6070/4.m3u8
+#EXTINF:-1 tvg-id="ForoTv.mx" tvg-name="Foro Tv MX HD" tvg-logo="https://s6.postimg.org/ihfpydhzl/forohd.png" group-title="MEXICO",Foro Tv MX HD
+http://158.69.52.43:8000/live/elec/6070/148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gala TV" tvg-logo="http://158.69.52.43:8000/imagenes/4036.jpg" group-title="MEXICO",Gala TV
+http://158.69.52.43:8000/live/elec/6070/4036.m3u8
+#EXTINF:-1 tvg-id="GalaTV9Nacional.mx" tvg-name="Galavision MX" tvg-logo="https://s6.postimg.org/f799y34nl/gala_tv_(1).png" group-title="MEXICO",Galavision MX
+http://158.69.52.43:8000/live/elec/6070/6.m3u8
+#EXTINF:-1 tvg-id="Galavision.us" tvg-name="Galavision HD" tvg-logo="https://s6.postimg.org/6d0ghe53l/galahd.png" group-title="MEXICO",Galavision HD
+http://158.69.52.43:8000/live/elec/6070/135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Imagen Tv" tvg-logo="http://158.69.52.43:8000/imagenes/3535.jpg" group-title="MEXICO",Imagen Tv
+http://158.69.52.43:8000/live/elec/6070/3535.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas MX" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c5/LOGO-LAS-ESTRELLAS.png/revision/latest?cb=20160901194528" group-title="MEXICO",Las Estrellas MX
+http://158.69.52.43:8000/live/elec/6070/2.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas -1" tvg-logo="https://s6.postimg.org/6hc6x8n69/canaldelasestrellas_-2011.png" group-title="MEXICO",Las Estrellas -1
+http://158.69.52.43:8000/live/elec/6070/1071.m3u8
+#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-name="Milenio MX" tvg-logo="https://s6.postimg.org/uh955a05t/Milenio_Television_Logo.png" group-title="MEXICO",Milenio MX
+http://158.69.52.43:8000/live/elec/6070/98.m3u8
+#EXTINF:-1 tvg-id="Multimedios.mx" tvg-name="Multimedios MX" tvg-logo="https://s6.postimg.org/pk05xwnkh/multimedios.png" group-title="MEXICO",Multimedios MX
+http://158.69.52.43:8000/live/elec/6070/12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios Laguna" tvg-logo="" group-title="MEXICO",Multimedios Laguna
+http://158.69.52.43:8000/live/elec/6070/4048.m3u8
+#EXTINF:-1 tvg-id="Multimedios.mx" tvg-name="Multimedios Plus" tvg-logo="https://s6.postimg.org/pk05xwnkh/multimedios.png" group-title="MEXICO",Multimedios Plus
+http://158.69.52.43:8000/live/elec/6070/367.m3u8
+#EXTINF:-1 tvg-id="Teleocho.ar" tvg-name="OCHOTV" tvg-logo="https://s6.postimg.org/pq0l2olzl/8tv.png" group-title="MEXICO",OCHOTV
+http://158.69.52.43:8000/live/elec/6070/1607.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEVER" tvg-logo="http://158.69.52.43:8000/imagenes/3151.jpg" group-title="MEXICO",TELEVER
+http://158.69.52.43:8000/live/elec/6070/3151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Televisa MTY" tvg-logo="http://158.69.52.43:8000/imagenes/4037.jpg" group-title="MEXICO",Televisa MTY
+http://158.69.52.43:8000/live/elec/6070/4037.m3u8
+
+
+Chile
+
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal 13 CL" tvg-logo="https://s6.postimg.org/n10qfja6p/co13.png" group-title="CHILE",Canal 13 CL
+http://158.69.52.43:8000/live/elec/6070/1825.m3u8
+#EXTINF:-1 tvg-id="Chilevision.cl" tvg-name="Chile vision HD CL" tvg-logo="https://vignette1.wikia.nocookie.net/inciclopedia/images/0/0e/Chilevision.png/revision/latest?cb=20130814013458" group-title="CHILE",Chile vision HD CL
+http://158.69.52.43:8000/live/elec/6070/1726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CDO" tvg-logo="http://158.69.52.43:8000/imagenes/3387.jpg" group-title="CHILE",CDO
+http://158.69.52.43:8000/live/elec/6070/3387.m3u8
+#EXTINF:-1 tvg-id="CNNChile.cl" tvg-name="CNN Chile" tvg-logo="https://s6.postimg.org/5lbknf51t/cnn.png" group-title="CHILE",CNN Chile
+http://158.69.52.43:8000/live/elec/6070/2303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA RED" tvg-logo="" group-title="CHILE",LA RED
+http://158.69.52.43:8000/live/elec/6070/1049.m3u8
+#EXTINF:-1 tvg-id="Mega.cl" tvg-name="Mega CL" tvg-logo="https://s6.postimg.org/3y91gc5sh/mega.png" group-title="CHILE",Mega CL
+http://158.69.52.43:8000/live/elec/6070/1725.m3u8
+#EXTINF:-1 tvg-id="Teletrak.cl" tvg-name="Teletrack" tvg-logo="http://www.iptvchile.xyz/logos/teletrak.png" group-title="CHILE",Teletrack
+http://158.69.52.43:8000/live/elec/6070/1780.m3u8
+#EXTINF:-1 tvg-id="TVN.cl" tvg-name="TV CHILE" tvg-logo="http://158.69.52.43:8000/imagenes/3449.jpg" group-title="CHILE",TV CHILE
+http://158.69.52.43:8000/live/elec/6070/3449.m3u8
+#EXTINF:-1 tvg-id="TVN.cl" tvg-name="TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVN_HD_Chile.png" group-title="CHILE",TVN
+http://158.69.52.43:8000/live/elec/6070/1727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VTV" tvg-logo="" group-title="CHILE",VTV
+http://158.69.52.43:8000/live/elec/6070/4207.m3u8
+
+
+Colombia
+
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol Co" tvg-logo="https://s6.postimg.org/x79qucz0x/Caracol_Logo_7.png" group-title="COLOMBIA",Caracol Co
+http://158.69.52.43:8000/live/elec/6070/1038.m3u8
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol INT" tvg-logo="https://s6.postimg.org/x79qucz0x/Caracol_Logo_7.png" group-title="COLOMBIA",Caracol INT
+http://158.69.52.43:8000/live/elec/6070/1039.m3u8
+#EXTINF:-1 tvg-id="ElTiempo.co" tvg-name="El Tiempo CO" tvg-logo="https://s6.postimg.org/wumj631ox/elti.png" group-title="COLOMBIA",El Tiempo CO
+http://158.69.52.43:8000/live/elec/6070/1041.m3u8
+#EXTINF:-1 tvg-id="Rcn.co" tvg-name="RCN CO" tvg-logo="https://s6.postimg.org/6bzajmdld/rcn.png" group-title="COLOMBIA",RCN CO
+http://158.69.52.43:8000/live/elec/6070/1035.m3u8
+#EXTINF:-1 tvg-id="Rcn.co" tvg-name="RCN Nuestra tele" tvg-logo="https://s6.postimg.org/cum5wolld/rcnco2.png" group-title="COLOMBIA",RCN Nuestra tele
+http://158.69.52.43:8000/live/elec/6070/1037.m3u8
+#EXTINF:-1 tvg-id="RcnNovelas.co" tvg-name="Rcn Novelas CO" tvg-logo="https://s6.postimg.org/um8rkkz0x/rcn.png" group-title="COLOMBIA",Rcn Novelas CO
+http://158.69.52.43:8000/live/elec/6070/418.m3u8
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-name="Teleantioquia CO" tvg-logo="https://s6.postimg.org/8bkhorxap/telean.png" group-title="COLOMBIA",Teleantioquia CO
+http://158.69.52.43:8000/live/elec/6070/1044.m3u8
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="Trece CL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Canal_13_trece.png" group-title="COLOMBIA",Trece CL
+http://158.69.52.43:8000/live/elec/6070/487.m3u8
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="WinSports CO" tvg-logo="http://static.iptv-epg.com/co/WinSports.co.png" group-title="COLOMBIA",WinSports CO
+http://158.69.52.43:8000/live/elec/6070/1036.m3u8
+
+
+Ecuador
+
+#EXTINF:-1 tvg-id="" tvg-name="ECUAVISA" tvg-logo="http://158.69.52.43:8000/imagenes/3446.jpg" group-title="ECUADOR",ECUAVISA
+http://158.69.52.43:8000/live/elec/6070/3446.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OROMAR TV" tvg-logo="http://158.69.52.43:8000/imagenes/3447.jpg" group-title="ECUADOR",OROMAR TV
+http://158.69.52.43:8000/live/elec/6070/3447.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTS" tvg-logo="http://158.69.52.43:8000/imagenes/3445.jpg" group-title="ECUADOR",RTS
+http://158.69.52.43:8000/live/elec/6070/3445.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TC" tvg-logo="http://158.69.52.43:8000/imagenes/3448.jpg" group-title="ECUADOR",TC
+http://158.69.52.43:8000/live/elec/6070/3448.m3u8
+
+
+Panama
+
+#EXTINF:-1 tvg-id="" tvg-name="C.DEPORTE" tvg-logo="https://pbs.twimg.com/profile_images/496415326540546048/WZqGHADX_400x400.jpeg" group-title="PANAMA",C.DEPORTE
+http://158.69.52.43:8000/live/elec/6070/3633.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOSANNA VISION" tvg-logo="https://pbs.twimg.com/profile_images/719341743838105600/I_GNuc42.jpg" group-title="PANAMA",HOSANNA VISION
+http://158.69.52.43:8000/live/elec/6070/3630.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NEX TV" tvg-logo="http://panamajazzfestival.com/wp-content/uploads/2015/11/nextv.png" group-title="PANAMA",NEX TV
+http://158.69.52.43:8000/live/elec/6070/3629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RPC" tvg-logo="http://forounivers.com/uploads/monthly_2017_01/RPC_(2010).png.4630b569f7c275038611229447482050.png" group-title="PANAMA",RPC
+http://158.69.52.43:8000/live/elec/6070/3632.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SER TV" tvg-logo="http://sertv.gob.pa/images/NewWeb/logos/logo-sertv-portal.png" group-title="PANAMA",SER TV
+http://158.69.52.43:8000/live/elec/6070/3628.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEMETRO 13" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/2/24/Telemetro_%282007%29.png/revision/latest?cb=20150208221746" group-title="PANAMA",TELEMETRO 13
+http://158.69.52.43:8000/live/elec/6070/3627.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Max" tvg-logo="http://livesport.im/wp-content/uploads/2015/01/TVMax.jpg" group-title="PANAMA",TV Max
+http://158.69.52.43:8000/live/elec/6070/3742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV2" tvg-logo="https://pbs.twimg.com/profile_images/836874432337543168/fWmvy0k1.jpg" group-title="PANAMA",TV2
+http://158.69.52.43:8000/live/elec/6070/3741.m3u8

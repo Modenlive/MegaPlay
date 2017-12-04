@@ -1,134 +1,156 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-ocvNS8RU_SM/WgJFtMguPtI/AAAAAAAACPY/hCSR--bO3sQIfibrGpyc0mv2Fnq3iXoUgCK4BGAYYCw/s1600/espn.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]ESPN AR
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/2858.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-tWtt3iNdaeo/WgJFswhr9gI/AAAAAAAACPE/LH8hSKfOQXUJWpXCqjFG8odybrL70zdYwCK4BGAYYCw/s1600/espn%2B2.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]ESPN 2 AR
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/4049.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-_D32vG4Pq-Q/WgJFrTAhcKI/AAAAAAAACOs/tCbrEJ6Mpzgqj61s7Sa1GVMXCNA5WWiLQCK4BGAYYCw/s1600/espn3.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]ESPN 3 AR
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/2860.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Gm5j3JqaPZ4/WgJFuUHZ7sI/AAAAAAAACPs/PfqONDkJHTYhl-HAf-tIjPO8B4hSaG84wCK4BGAYYCw/s1600/espn%2Bdeportes.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]ESPN DEPORTES
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/3990.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-E01ww8IlMsQ/WgJFtLEWFFI/AAAAAAAACPQ/n0EKee3iMqQ2SNyHlqM3nNTGpFA6jr8pgCK4BGAYYCw/s1600/espn%2B%252B.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]ESPN+ MX
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/110.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-ocvNS8RU_SM/WgJFtMguPtI/AAAAAAAACPY/hCSR--bO3sQIfibrGpyc0mv2Fnq3iXoUgCK4BGAYYCw/s1600/espn.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]ESPN MX
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/91.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-tWtt3iNdaeo/WgJFswhr9gI/AAAAAAAACPE/LH8hSKfOQXUJWpXCqjFG8odybrL70zdYwCK4BGAYYCw/s1600/espn%2B2.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]ESPN 2 MX
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/92.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-_D32vG4Pq-Q/WgJFrTAhcKI/AAAAAAAACOs/tCbrEJ6Mpzgqj61s7Sa1GVMXCNA5WWiLQCK4BGAYYCw/s1600/espn3.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]ESPN 3 MX
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/93.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-dP2Ma7emGk0/WgJblvJG-5I/AAAAAAAACRg/yz4iQQQ5trUiFOo8ZxHVZBJXRTqrUdJoACK4BGAYYCw/s1600/tntsport.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]TNT Sports
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/3395.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-GceZwlwrIh0/WgJFsWsBPEI/AAAAAAAACO8/jRHNa1WsNEgQnhsADdIoezM1W7Deu-FAgCK4BGAYYCw/s1600/Foxsport%2Bpremium.jpg",[B][COLOR blue]•   [/B][/COLOR]Fox Sport Premium
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/3396.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-I5TMYXroEHk/WgJkkl8279I/AAAAAAAACS0/pcjUDOhycb0fIBArDm3J6KFOx00pusXpgCK4BGAYYCw/s1600/tycsport.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]Tyc Sports AR
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/1790.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports 1 AR" tvg-logo="http://4.bp.blogspot.com/-0zUTjABQDmo/WgJFrU_KxsI/AAAAAAAACO4/2mLAf62iM_QgZimc756MHXKkdwNfYCBswCK4BGAYYCw/s1600/Foxsport.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]Fox Sports 1 AR
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/1820.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="Fox Sports 2 AR" tvg-logo="http://2.bp.blogspot.com/-pxohnLdW5jg/WgJFrWN4O9I/AAAAAAAACOw/n3ySaVc1qYQAuuXhxbpBixIuNMY-6Z11wCK4BGAYYCw/s1600/Foxsport%2B2.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]Fox Sports 2 AR
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/1821.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="Fox Sports 3 AR" tvg-logo="http://3.bp.blogspot.com/-sFhzit96soo/WgJFtrh0qMI/AAAAAAAACPc/a0NwFqfcIOAe5BXtyvhC7Z6nN0QSh1cPwCK4BGAYYCw/s1600/Foxsport%2B3.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]Fox Sports 3 AR
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/1822.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="Fox Sports MX" tvg-logo="http://4.bp.blogspot.com/-0zUTjABQDmo/WgJFrU_KxsI/AAAAAAAACO4/2mLAf62iM_QgZimc756MHXKkdwNfYCBswCK4BGAYYCw/s1600/Foxsport.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]Fox Sports MX
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/94.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="Fox Sports 2 MX" tvg-logo="http://2.bp.blogspot.com/-pxohnLdW5jg/WgJFrWN4O9I/AAAAAAAACOw/n3ySaVc1qYQAuuXhxbpBixIuNMY-6Z11wCK4BGAYYCw/s1600/Foxsport%2B2.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]Fox Sports 2 MX
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/95.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 MX" tvg-logo="http://3.bp.blogspot.com/-sFhzit96soo/WgJFtrh0qMI/AAAAAAAACPc/a0NwFqfcIOAe5BXtyvhC7Z6nN0QSh1cPwCK4BGAYYCw/s1600/Foxsport%2B3.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]Fox Sports 3 MX
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/4140.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="Fox Sports VE" tvg-name="Fox Sports VE" tvg-logo="http://4.bp.blogspot.com/-0zUTjABQDmo/WgJFrU_KxsI/AAAAAAAACO4/2mLAf62iM_QgZimc756MHXKkdwNfYCBswCK4BGAYYCw/s1600/Foxsport.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]Fox Sports VE
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/1823.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-0zUTjABQDmo/WgJFrU_KxsI/AAAAAAAACO4/2mLAf62iM_QgZimc756MHXKkdwNfYCBswCK4BGAYYCw/s1600/Foxsport.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]Fox Sports 1 CL
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/1746.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-
-
-#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="Fox Deportes US" tvg-logo="http://4.bp.blogspot.com/-0zUTjABQDmo/WgJFrU_KxsI/AAAAAAAACO4/2mLAf62iM_QgZimc756MHXKkdwNfYCBswCK4BGAYYCw/s1600/Foxsport.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]Fox Deportes US
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/2844.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="FOXSoccerPlus.us" tvg-name="Fox Soccer Plus" tvg-logo="http://4.bp.blogspot.com/-yxMmIIBpLrc/WgJLw01AZUI/AAAAAAAACQM/BqnakPJeqwwoIX62yp8MEn_h9RzdAO-EwCK4BGAYYCw/s1600/Foxsport%2Bsoccer.jpg" group-title="SPORTS",[B][COLOR blue]•   [/B][/COLOR]Fox Soccer Plus
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/2435.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1 US HD" tvg-logo="http://4.bp.blogspot.com/-0zUTjABQDmo/WgJFrU_KxsI/AAAAAAAACO4/2mLAf62iM_QgZimc756MHXKkdwNfYCBswCK4BGAYYCw/s1600/Foxsport.jpg" group-title="SPORTS",[B][COLOR blue]•   [/B][/COLOR]Fox Sports 1 US HD
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/232.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="Fox Sports 2 US HD" tvg-logo="http://2.bp.blogspot.com/-pxohnLdW5jg/WgJFrWN4O9I/AAAAAAAACOw/n3ySaVc1qYQAuuXhxbpBixIuNMY-6Z11wCK4BGAYYCw/s1600/Foxsport%2B2.jpg" group-title="SPORTS",[B][COLOR blue]•   [/B][/COLOR]Fox Sports 2 US HD
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/231.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-
-
-#EXTINF:-1 tvg-id="GolTV.pe" tvg-name="Gol TV PE" tvg-logo="http://4.bp.blogspot.com/-tZKJYRtEzlQ/WgJbjL1X1jI/AAAAAAAACQo/kP7pxqB5tUcBRN2x_ziT77gqJ7XFZvOugCK4BGAYYCw/s1600/goltv.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]Gol TV PE
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/1066.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="GolTv.hn" tvg-name="GOL TV ENG" tvg-logo="http://4.bp.blogspot.com/-tZKJYRtEzlQ/WgJbjL1X1jI/AAAAAAAACQo/kP7pxqB5tUcBRN2x_ziT77gqJ7XFZvOugCK4BGAYYCw/s1600/goltv.jpg" group-title="SPORTS",[B][COLOR blue]•   [/B][/COLOR]GOL TV ENG
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/2848.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="GolTV.pe" tvg-name="Gol Peru" tvg-logo="http://3.bp.blogspot.com/-w5BLDtXXna4/WgJ3rmt8tSI/AAAAAAAACTE/FUinI0PjMvQfKeZFfR_Y3134uEKRfk_jwCK4BGAYYCw/s1600/golperu.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]Gol Peru
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/488.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-jAwyXSDO43w/WgJFuJhwxAI/AAAAAAAACPo/zThv00ybbiMax-XJpzX1gEiagcNFXlNVgCK4BGAYYCw/s1600/Directv.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]DIRECTV SPORTS
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/1017.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-jAwyXSDO43w/WgJFuJhwxAI/AAAAAAAACPo/zThv00ybbiMax-XJpzX1gEiagcNFXlNVgCK4BGAYYCw/s1600/Directv.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]DIRECTV SPORTS 2
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/2863.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-
-
-
-#EXTINF:-1 tvg-id="beINLaLiga.es" tvg-name="beIN LaLiga ES" tvg-logo="http://4.bp.blogspot.com/-bfZCFh0XapA/WgJbnDf_2yI/AAAAAAAACR8/ni1ci9pF0VcPp9Sdy4POpHx-erVpuALTgCK4BGAYYCw/s1600/beinsport.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]beIN LaLiga ES
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/460.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="beINSportsNBA.sa" tvg-name="BEINSPORTS Ñ" tvg-logo="http://4.bp.blogspot.com/-bfZCFh0XapA/WgJbnDf_2yI/AAAAAAAACR8/ni1ci9pF0VcPp9Sdy4POpHx-erVpuALTgCK4BGAYYCw/s1600/beinsport.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]beINSPORTS Ñ
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/405.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="beINSports.es" tvg-name="beIN Sports ES" tvg-logo="http://4.bp.blogspot.com/-bfZCFh0XapA/WgJbnDf_2yI/AAAAAAAACR8/ni1ci9pF0VcPp9Sdy4POpHx-erVpuALTgCK4BGAYYCw/s1600/beinsport.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]beIN Sports ES
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/442.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="beINSport.ca" tvg-name="beIN Sports" tvg-logo="http://4.bp.blogspot.com/-bfZCFh0XapA/WgJbnDf_2yI/AAAAAAAACR8/ni1ci9pF0VcPp9Sdy4POpHx-erVpuALTgCK4BGAYYCw/s1600/beinsport.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]beIN Sports HD
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/473.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-
-
-
-#EXTINF:-1 tvg-id="CDFBasico.cl" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-V2L1Rq4cp1s/WgJbkXJpo7I/AAAAAAAACRA/IPYCvJRYKSIdnUyyS0sBPe2WbYQq8Xv9ACK4BGAYYCw/s1600/cdf.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]Cdf Basico CL
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/1729.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="CDFPremium.cl" tvg-name="Cdf premiun CL" tvg-logo="http://3.bp.blogspot.com/-V2L1Rq4cp1s/WgJbkXJpo7I/AAAAAAAACRA/IPYCvJRYKSIdnUyyS0sBPe2WbYQq8Xv9ACK4BGAYYCw/s1600/cdf.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]Cdf premiun CL
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/1819.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="estadio" tvg-name="Estadio CDF" tvg-logo="http://3.bp.blogspot.com/-V2L1Rq4cp1s/WgJbkXJpo7I/AAAAAAAACRA/IPYCvJRYKSIdnUyyS0sBPe2WbYQq8Xv9ACK4BGAYYCw/s1600/cdf.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]Estadio CDF
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/416.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-
-
-#EXTINF:-1 tvg-id="CDFPremium.cl" tvg-name="CDO HD (CH)" tvg-logo="http://1.bp.blogspot.com/-is7-OchiSxw/WgJbkksKpsI/AAAAAAAACRI/c_nhGmpq4R4jK6seYhzVFUxU7qCvsgk-QCK4BGAYYCw/s1600/cdo.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]CDO Premium HD (CH)
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/1779.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="" tvg-name="CNT SPORTS" tvg-logo="http://4.bp.blogspot.com/-o2xGNOzT7VY/WgJfBkUN-rI/AAAAAAAACSI/a3tqFAKYtcQmgFRziSgFP6c1P2NEi-_DACK4BGAYYCw/s1600/cntsport.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]CNT SPORTS
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/4205.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV AR" tvg-logo="http://3.bp.blogspot.com/-tYe9lcCCqwk/WgJf5Zp9mhI/AAAAAAAACSU/CeYakwWDQ3IlAQVbU_PaS60nTfGCw6etACK4BGAYYCw/s1600/deportv.jpg" group-title="ARGENTINA",[B][COLOR blue]•   [/B][/COLOR]DeporTV AR
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/1027.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="" tvg-name="GOLF LATINOAMERICA" tvg-logo="http://3.bp.blogspot.com/-q8GJlcAqDtc/WgJbm7OnqeI/AAAAAAAACR4/w5RUu4lZVLE91QGmnGBx9sjMcW3y7KZiACK4BGAYYCw/s1600/golflatino.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]GOLF LATINOAMERICA
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/4141.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-
------------
-
-#EXTINF:-1 tvg-id="TDN.mx" tvg-name="TDN MX" tvg-logo="http://2.bp.blogspot.com/-uLFm6VnR6mA/WgJbjLNl0QI/AAAAAAAACQs/8oIJdmCdPlUEo4KCZKzqWS7dQS_7WCNlQCK4BGAYYCw/s1600/tdn.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]TDN MX
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/167.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="Tele Deporte ES" tvg-logo="http://3.bp.blogspot.com/-zOgExijZMOM/WgJbkDYO3zI/AAAAAAAACQ0/pAZJQWXlq68w6WByIHx8HTT8YW5ihfWOACK4BGAYYCw/s1600/tdp.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]Tele Deporte ES
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/424.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="" tvg-name="TVC DEPORTES" tvg-logo="http://2.bp.blogspot.com/-Ui0lFAkyGeU/WgJblkNT_HI/AAAAAAAACRo/uIpxiZAvyy8i0B9eSnIzLtlw3-gCMwQ5QCK4BGAYYCw/s1600/tvcdepo.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]TVC Deportes
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/3507.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="UnivisionDeportes.us" tvg-name="Univision Deportes" tvg-logo="http://3.bp.blogspot.com/-I0oPB4vX61I/WgJbmJ6iDGI/AAAAAAAACRs/M5YkhjiBDjoqbtVYXNIlEyzgHVJ-Jl5xACK4BGAYYCw/s1600/univicion%2Bdeportes.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]Univision Deportes
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/1754.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="UnivisionDeportes.us" tvg-name="Univision Deportes HD" tvg-logo="http://3.bp.blogspot.com/-I0oPB4vX61I/WgJbmJ6iDGI/AAAAAAAACRs/M5YkhjiBDjoqbtVYXNIlEyzgHVJ-Jl5xACK4BGAYYCw/s1600/univicion%2Bdeportes.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]Univision Deportes HD
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/1449.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="Tdn.hn" tvg-name="Univision Tdn" tvg-logo="http://4.bp.blogspot.com/-fnjZytqodXA/WgJbjCQfg9I/AAAAAAAACQk/LjsnwR7No8c5YPIabOdJEN6OwU6tBW7CQCK4BGAYYCw/s1600/univicion%2Btdc.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]Univision Tdn
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/164.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-
-
---------------------
-
-#EXTINF:-1 tvg-id="chivas" tvg-name="CHIVAS TV SD" tvg-logo="http://4.bp.blogspot.com/-C3zhd6-heXA/WgJbk3fQUwI/AAAAAAAACRM/ycEctYXIzAMC_65fknSXaChbkwIipI0XQCK4BGAYYCw/s1600/chivas.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]CHIVAS TV SD
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/415.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="chivas" tvg-name="CHIVAS TV SD (OPC 2)" tvg-logo="http://4.bp.blogspot.com/-C3zhd6-heXA/WgJbk3fQUwI/AAAAAAAACRM/ycEctYXIzAMC_65fknSXaChbkwIipI0XQCK4BGAYYCw/s1600/chivas.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]CHIVAS TV SD (OPC 2
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/1605.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="chivas" tvg-name="CHIVAS TV HD" tvg-logo="http://4.bp.blogspot.com/-C3zhd6-heXA/WgJbk3fQUwI/AAAAAAAACRM/ycEctYXIzAMC_65fknSXaChbkwIipI0XQCK4BGAYYCw/s1600/chivas.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]CHIVAS TV HD
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/1753.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="chivas" tvg-name="CHIVAS TV FHD" tvg-logo="http://4.bp.blogspot.com/-C3zhd6-heXA/WgJbk3fQUwI/AAAAAAAACRM/ycEctYXIzAMC_65fknSXaChbkwIipI0XQCK4BGAYYCw/s1600/chivas.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]CHIVAS TV FHD
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/3267.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV1 PT" tvg-logo="http://3.bp.blogspot.com/-FAB22HoH3EM/WgJiuGTu_7I/AAAAAAAACSo/5wK08Nyj8QgkHcFTa-2QkMu7DD5_w34UwCK4BGAYYCw/s1600/sporttv.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]Sport TV1 PT
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/1769.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV2 PT" tvg-logo="http://3.bp.blogspot.com/-FAB22HoH3EM/WgJiuGTu_7I/AAAAAAAACSo/5wK08Nyj8QgkHcFTa-2QkMu7DD5_w34UwCK4BGAYYCw/s1600/sporttv.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]Sport TV2 PT
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/1768.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV3 PT" tvg-logo="http://3.bp.blogspot.com/-FAB22HoH3EM/WgJiuGTu_7I/AAAAAAAACSo/5wK08Nyj8QgkHcFTa-2QkMu7DD5_w34UwCK4BGAYYCw/s1600/sporttv.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]Sport TV3 PT
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/1767.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV4 PT" tvg-logo="http://3.bp.blogspot.com/-FAB22HoH3EM/WgJiuGTu_7I/AAAAAAAACSo/5wK08Nyj8QgkHcFTa-2QkMu7DD5_w34UwCK4BGAYYCw/s1600/sporttv.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]Sport TV4 PT
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/1770.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV5 PT" tvg-logo="http://3.bp.blogspot.com/-FAB22HoH3EM/WgJiuGTu_7I/AAAAAAAACSo/5wK08Nyj8QgkHcFTa-2QkMu7DD5_w34UwCK4BGAYYCw/s1600/sporttv.jpg" group-title="DEPORTES",[B][COLOR blue]•   [/B][/COLOR]Sport TV5 PT
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/1771.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_DeporTV.png" group-title="DEPORTES",DeporTV AR
+http://158.69.52.43:8000/live/elec/6070/1027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="http://158.69.52.43:8000/imagenes/3395.jpg" group-title="DEPORTES",TNT SPORTS
+http://158.69.52.43:8000/live/elec/6070/3395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM" tvg-logo="http://158.69.52.43:8000/imagenes/3396.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM
+http://158.69.52.43:8000/live/elec/6070/3396.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNT SPORTS" tvg-logo="" group-title="DEPORTES",CNT SPORTS
+http://158.69.52.43:8000/live/elec/6070/4205.m3u8
+#EXTINF:-1 tvg-id="AYM SPORTS" tvg-name="AYM SPORTS" tvg-logo="http://158.69.52.43:8000/imagenes/97.jpg" group-title="DEPORTES",AYM SPORTS
+http://158.69.52.43:8000/live/elec/6070/97.m3u8
+#EXTINF:-1 tvg-id="beINLaLiga.es" tvg-name="beIN LaLiga ES" tvg-logo="http://static.iptv-epg.com/es/beINLaLiga.es.png" group-title="DEPORTES",beIN LaLiga ES
+http://158.69.52.43:8000/live/elec/6070/460.m3u8
+#EXTINF:-1 tvg-id="beINSports.es" tvg-name="beIN Sports ES" tvg-logo="http://static.iptv-epg.com/es/beINSports.es.png" group-title="DEPORTES",beIN Sports ES
+http://158.69.52.43:8000/live/elec/6070/442.m3u8
+#EXTINF:-1 tvg-id="beINSport.ca" tvg-name="beIN Sports" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/f/f8/Be_in_sports_hd.png/revision/latest?cb=20140328172314" group-title="DEPORTES",beIN Sports HD
+http://158.69.52.43:8000/live/elec/6070/473.m3u8
+#EXTINF:-1 tvg-id="beINSportsNBA.sa" tvg-name="BEINSPORTS Ñ" tvg-logo="http://158.69.52.43:8000/imagenes/405.jpg" group-title="DEPORTES",BEINSPORTS Ñ
+http://158.69.52.43:8000/live/elec/6070/405.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 3" tvg-logo="http://158.69.52.43:8000/imagenes/3281.jpg" group-title="DEPORTES",BEINSPORTS 3
+http://158.69.52.43:8000/live/elec/6070/3281.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 4" tvg-logo="http://158.69.52.43:8000/imagenes/3282.jpg" group-title="DEPORTES",BEINSPORTS 4
+http://158.69.52.43:8000/live/elec/6070/3282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 5" tvg-logo="http://158.69.52.43:8000/imagenes/3283.jpg" group-title="DEPORTES",BEINSPORTS 5
+http://158.69.52.43:8000/live/elec/6070/3283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 6" tvg-logo="http://158.69.52.43:8000/imagenes/3284.jpg" group-title="DEPORTES",BEINSPORTS 6
+http://158.69.52.43:8000/live/elec/6070/3284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 7" tvg-logo="http://158.69.52.43:8000/imagenes/3285.jpg" group-title="DEPORTES",BEINSPORTS 7
+http://158.69.52.43:8000/live/elec/6070/3285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 8" tvg-logo="http://158.69.52.43:8000/imagenes/3286.jpg" group-title="DEPORTES",BEINSPORTS 8
+http://158.69.52.43:8000/live/elec/6070/3286.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 9" tvg-logo="http://158.69.52.43:8000/imagenes/3287.jpg" group-title="DEPORTES",BEINSPORTS 9
+http://158.69.52.43:8000/live/elec/6070/3287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 10" tvg-logo="http://158.69.52.43:8000/imagenes/3288.jpg" group-title="DEPORTES",BEINSPORTS 10
+http://158.69.52.43:8000/live/elec/6070/3288.m3u8
+#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="Box Nation" tvg-logo="http://static.iptv-epg.com/uk/BoxNation.uk.png" group-title="DEPORTES",Box Nation
+http://158.69.52.43:8000/live/elec/6070/204.m3u8
+#EXTINF:-1 tvg-id="F1LatAm.co" tvg-name="Canal F1" tvg-logo="https://s6.postimg.org/atf1auf69/F1-3d.png" group-title="DEPORTES",Canal F1
+http://158.69.52.43:8000/live/elec/6070/90.m3u8
+#EXTINF:-1 tvg-id="CDFBasico.cl" tvg-name="Cdf Basico CL" tvg-logo="https://s6.postimg.org/ln7py3w41/cdf.png" group-title="DEPORTES",Cdf Basico CL
+http://158.69.52.43:8000/live/elec/6070/1729.m3u8
+#EXTINF:-1 tvg-id="CDFPremium.cl" tvg-name="Cdf premiun CL" tvg-logo="https://s6.postimg.org/ln7py3w41/cdf.png" group-title="DEPORTES",Cdf premiun CL
+http://158.69.52.43:8000/live/elec/6070/1819.m3u8
+#EXTINF:-1 tvg-id="CDFPremium.cl" tvg-name="CDO PREMIUM HD (CH)" tvg-logo="https://s6.postimg.org/ln7py3w41/cdf.png" group-title="DEPORTES",CDO PREMIUM HD (CH)
+http://158.69.52.43:8000/live/elec/6070/1779.m3u8
+#EXTINF:-1 tvg-id="DigiSport.sk" tvg-name="DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1200px-DirecTV_Sports_logo.svg.png" group-title="DEPORTES",DIRECTV SPORT
+http://158.69.52.43:8000/live/elec/6070/1017.m3u8
+#EXTINF:-1 tvg-id="ecuador" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1200px-DirecTV_Sports_logo.svg.png" group-title="DEPORTES",DIRECTV SPORTS 2
+http://158.69.52.43:8000/live/elec/6070/2863.m3u8
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN AR" tvg-logo="https://s6.postimg.org/inb1ihxld/espn.png" group-title="DEPORTES",ESPN AR
+http://158.69.52.43:8000/live/elec/6070/2858.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 AR" tvg-logo="http://158.69.52.43:8000/imagenes/4049.jpg" group-title="DEPORTES",ESPN 2 AR
+http://158.69.52.43:8000/live/elec/6070/4049.m3u8
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3 AR" tvg-logo="https://s6.postimg.org/a8veuewk1/espn3.png" group-title="DEPORTES",ESPN 3 AR
+http://158.69.52.43:8000/live/elec/6070/2860.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES" tvg-logo="http://158.69.52.43:8000/imagenes/3990.jpg" group-title="DEPORTES",ESPN DEPORTES
+http://158.69.52.43:8000/live/elec/6070/3990.m3u8
+#EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="ESPN MX" tvg-logo="https://s6.postimg.org/inb1ihxld/espn.png" group-title="DEPORTES",ESPN MX
+http://158.69.52.43:8000/live/elec/6070/91.m3u8
+#EXTINF:-1 tvg-id="Espn2.mx" tvg-name="ESPN 2 MX" tvg-logo="https://s6.postimg.org/jqv5ugi8h/ESPN2_logo.png" group-title="DEPORTES",ESPN 2 MX
+http://158.69.52.43:8000/live/elec/6070/92.m3u8
+#EXTINF:-1 tvg-id="ESPN3.mx" tvg-name="ESPN 3 MX" tvg-logo="https://s6.postimg.org/a8veuewk1/espn3.png" group-title="DEPORTES",ESPN 3 MX
+http://158.69.52.43:8000/live/elec/6070/93.m3u8
+#EXTINF:-1 tvg-id="ESPNplus.mx" tvg-name="ESPN+ MX" tvg-logo="https://s6.postimg.org/6p8lpe8gh/Espn.png" group-title="DEPORTES",ESPN+ MX
+http://158.69.52.43:8000/live/elec/6070/110.m3u8
+#EXTINF:-1 tvg-id="estadio" tvg-name="Estadio CDF" tvg-logo="http://p4.zdassets.com/hc/settings_assets/240700/200018186/br5kwKteXLu0JhEwmHmrGw-ecdf_3.png" group-title="DEPORTES",Estadio CDF
+http://158.69.52.43:8000/live/elec/6070/1729.m3u8
+#EXTINF:-1 tvg-id="estadio" tvg-name="Estadio CDF HD" tvg-logo="http://p4.zdassets.com/hc/settings_assets/240700/200018186/br5kwKteXLu0JhEwmHmrGw-ecdf_3.png" group-title="DEPORTES",Estadio CDF HD
+http://158.69.52.43:8000/live/elec/6070/416.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Estadio CDF 2" tvg-logo="http://p4.zdassets.com/hc/settings_assets/240700/200018186/br5kwKteXLu0JhEwmHmrGw-ecdf_3.png" group-title="DEPORTES",Estadio CDF 2
+http://158.69.52.43:8000/live/elec/6070/4319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Estadio CDF 2 HD" tvg-logo="http://p4.zdassets.com/hc/settings_assets/240700/200018186/br5kwKteXLu0JhEwmHmrGw-ecdf_3.png" group-title="DEPORTES",Estadio CDF 2 HD
+http://158.69.52.43:8000/live/elec/6070/4318.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosports 1 FR" tvg-logo="http://static.iptv-epg.com/fr/Eurosport1.fr.png" group-title="DEPORTES",Eurosports 1 FR
+http://158.69.52.43:8000/live/elec/6070/1832.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosports 2 FR" tvg-logo="http://static.iptv-epg.com/fr/Eurosport2.fr.png" group-title="DEPORTES",Eurosports 2 FR
+http://158.69.52.43:8000/live/elec/6070/1831.m3u8
+#EXTINF:-1 tvg-id="FightChannel.rs" tvg-name="Fighting" tvg-logo="http://forounivers.com/uploads/monthly_2017_03/large.58dddac664b8b_FightingSportsNetwork.png.8a9abdf4cb48a24189775128a1cf45e1.png" group-title="DEPORTES",Fighting
+http://158.69.52.43:8000/live/elec/6070/165.m3u8
+#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="Fight Network" tvg-logo="http://forounivers.com/uploads/monthly_2017_04/large.FAITING2.png.85fdff54cc5511de0d207dadec7b90f4.png" group-title="DEPORTES",Fight Network
+http://158.69.52.43:8000/live/elec/6070/2842.m3u8
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="Fox Deportes US" tvg-logo="http://158.69.52.43:8000/imagenes/2844.jpg" group-title="DEPORTES",Fox Deportes US
+http://158.69.52.43:8000/live/elec/6070/2844.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.cl" tvg-name="Fox Sports 1 CL" tvg-logo="https://s6.postimg.org/56ioddcnl/fox-sports-enero2015.png" group-title="DEPORTES",Fox Sports 1 CL
+http://158.69.52.43:8000/live/elec/6070/1746.m3u8
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports 1 AR" tvg-logo="http://158.69.52.43:8000/imagenes/1820.jpg" group-title="DEPORTES",Fox Sports 1 AR
+http://158.69.52.43:8000/live/elec/6070/1820.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="Fox Sports 2 AR" tvg-logo="http://158.69.52.43:8000/imagenes/1821.jpg" group-title="DEPORTES",Fox Sports 2 AR
+http://158.69.52.43:8000/live/elec/6070/1821.m3u8
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="Fox Sports 3 AR" tvg-logo="http://158.69.52.43:8000/imagenes/1822.jpg" group-title="DEPORTES",Fox Sports 3 AR
+http://158.69.52.43:8000/live/elec/6070/1822.m3u8
+#EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="Fox Sports MX" tvg-logo="https://s6.postimg.org/56ioddcnl/fox-sports-enero2015.png" group-title="DEPORTES",Fox Sports MX
+http://158.69.52.43:8000/live/elec/6070/94.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="Fox Sports 2 MX" tvg-logo="https://s6.postimg.org/4xl3nfzv5/Fox_Sports_2_logo.png" group-title="DEPORTES",Fox Sports 2 MX
+http://158.69.52.43:8000/live/elec/6070/95.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 MX" tvg-logo="" group-title="DEPORTES",Fox Sports 3 MX
+http://158.69.52.43:8000/live/elec/6070/4140.m3u8
+#EXTINF:-1 tvg-id="Fox Sports VE" tvg-name="Fox Sports VE" tvg-logo="https://s6.postimg.org/56ioddcnl/fox-sports-enero2015.png" group-title="DEPORTES",Fox Sports VE
+http://158.69.52.43:8000/live/elec/6070/1823.m3u8
+#EXTINF:-1 tvg-id="GolTV.pe" tvg-name="Gol TV PE" tvg-logo="http://tv.lawalocos.com/imagenes-canales/goltv.png" group-title="DEPORTES",Gol TV PE
+http://158.69.52.43:8000/live/elec/6070/1066.m3u8
+#EXTINF:-1 tvg-id="GolTV.pe" tvg-name="Gol Peru" tvg-logo="https://golperu.s3.amazonaws.com/assets/img/LogoGolPeru-footer.png" group-title="DEPORTES",Gol Peru
+http://158.69.52.43:8000/live/elec/6070/488.m3u8
+#EXTINF:-1 tvg-id="GolTv.hn" tvg-name="GOL TV ENG" tvg-logo="http://static.iptv-epg.com/hn/GolTv.hn.png" group-title="SPORTS",GOL TV ENG
+http://158.69.52.43:8000/live/elec/6070/2848.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOLF LATINOAMERICA" tvg-logo="" group-title="DEPORTES",GOLF LATINOAMERICA
+http://158.69.52.43:8000/live/elec/6070/4141.m3u8
+#EXTINF:-1 tvg-id="HMX" tvg-name="HMX" tvg-logo="https://s6.postimg.org/hqdt140up/hmx.png" group-title="DEPORTES",HMX
+http://158.69.52.43:8000/live/elec/6070/13.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Manchester United Tv" tvg-logo="http://158.69.52.43:8000/imagenes/3991.jpg" group-title="DEPORTES",Manchester United Tv
+http://158.69.52.43:8000/live/elec/6070/3991.m3u8
+#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="Movistar Fórmula1 ES" tvg-logo="https://s6.postimg.org/atf1auf69/F1-3d.png"" group-title="DEPORTES",Movistar Fórmula1 ES
+http://158.69.52.43:8000/live/elec/6070/431.m3u8
+#EXTINF:-1 tvg-id="MovistarFutbol.es" tvg-name="Movistar Fútbol ES" tvg-logo="http://158.69.52.43:8000/imagenes/1830.jpg" group-title="DEPORTES",Movistar Fútbol ES
+http://158.69.52.43:8000/live/elec/6070/1830.m3u8
+#EXTINF:-1 tvg-id="MovistarMotoGP.es" tvg-name="Movistar Moto GP ES" tvg-logo="http://static.iptv-epg.com/es/MovistarMotoGP.es.png" group-title="DEPORTES",Movistar Moto GP ES
+http://158.69.52.43:8000/live/elec/6070/432.m3u8
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="http://static.iptv-epg.com/us/NBATV.us.png" group-title="DEPORTES",NBA TV
+http://158.69.52.43:8000/live/elec/6070/347.m3u8
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV ES" tvg-logo="http://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="DEPORTES",Real Madrid TV ES
+http://158.69.52.43:8000/live/elec/6070/1786.m3u8
+#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="Sky Bundesliga 1 DE" tvg-logo="http://158.69.52.43:8000/imagenes/1781.jpg" group-title="DEPORTES",Sky Bundesliga 1 DE
+http://158.69.52.43:8000/live/elec/6070/1781.m3u8
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV1 PT" tvg-logo="http://latelete.tv/img/Sport-TV1-HD.png" group-title="DEPORTES",Sport TV1 PT
+http://158.69.52.43:8000/live/elec/6070/1769.m3u8
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV2 PT" tvg-logo="http://latelete.tv/img/Sport-TV2-HD.png" group-title="DEPORTES",Sport TV2 PT
+http://158.69.52.43:8000/live/elec/6070/1768.m3u8
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV3 PT" tvg-logo="https://www.thelogodb.com/images/media/logo/wwsuqv1470409839.png" group-title="DEPORTES",Sport TV3 PT
+http://158.69.52.43:8000/live/elec/6070/1767.m3u8
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV4 PT" tvg-logo="https://www.thelogodb.com/images/media/logo/qypxry1470408244.png" group-title="DEPORTES",Sport TV4 PT
+http://158.69.52.43:8000/live/elec/6070/1770.m3u8
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV5 PT" tvg-logo="http://streamlivechannels.com/wp-content/uploads/2016/12/Sport-TV5-HD-300x169-300x169.png" group-title="DEPORTES",Sport TV5 PT
+http://158.69.52.43:8000/live/elec/6070/1771.m3u8
+#EXTINF:-1 tvg-id="TDN.mx" tvg-name="TDN MX" tvg-logo="https://s6.postimg.org/6ylaj4rpt/tnd1.png" group-title="DEPORTES",TDN MX
+http://158.69.52.43:8000/live/elec/6070/167.m3u8
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="Tele Deporte ES" tvg-logo="http://static.iptv-epg.com/es/Teledeporte.es.png" group-title="DEPORTES",Tele Deporte ES
+http://158.69.52.43:8000/live/elec/6070/424.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVC DEPORTES" tvg-logo="http://158.69.52.43:8000/imagenes/3507.jpg" group-title="DEPORTES",TVC DEPORTES
+http://158.69.52.43:8000/live/elec/6070/3507.m3u8
+#EXTINF:-1 tvg-id="TycSports.ar" tvg-name="Tyc Sports AR" tvg-logo="http://latelete.tv/img/tyc.png" group-title="DEPORTES",Tyc Sports AR
+http://158.69.52.43:8000/live/elec/6070/1790.m3u8
+#EXTINF:-1 tvg-id="UnivisionDeportes.us" tvg-name="Univision Deportes" tvg-logo="http://static.iptv-epg.com/us/UnivisionDeportes.us.png" group-title="DEPORTES",Univision Deportes
+http://158.69.52.43:8000/live/elec/6070/1754.m3u8
+#EXTINF:-1 tvg-id="Tdn.hn" tvg-name="Univision Tdn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png" group-title="DEPORTES",Univision Tdn
+http://158.69.52.43:8000/live/elec/6070/164.m3u8
+#EXTINF:-1 tvg-id="UnivisionDeportes.us" tvg-name="Univision Deportes HD" tvg-logo="http://static.iptv-epg.com/us/UnivisionDeportes.us.png" group-title="DEPORTES",Univision Deportes HD
+http://158.69.52.43:8000/live/elec/6070/1449.m3u8
+#EXTINF:-1 tvg-id="chivas" tvg-name="CHIVAS TV SD" tvg-logo="http://forounivers.com/uploads/monthly_2017_01/large.logo-chivas-tv.png.7ec08872af9e688a75eac3a06ce6a508.png" group-title="DEPORTES",CHIVAS TV SD
+http://158.69.52.43:8000/live/elec/6070/415.m3u8
+#EXTINF:-1 tvg-id="chivas" tvg-name="CHIVAS TV SD (OPC 2)" tvg-logo="http://forounivers.com/uploads/monthly_2017_01/large.logo-chivas-tv.png.7ec08872af9e688a75eac3a06ce6a508.png" group-title="DEPORTES",CHIVAS TV SD (OPC 2
+http://158.69.52.43:8000/live/elec/6070/1605.m3u8
+#EXTINF:-1 tvg-id="chivas" tvg-name="CHIVAS TV HD" tvg-logo="http://forounivers.com/uploads/monthly_2017_01/large.logo-chivas-tv.png.7ec08872af9e688a75eac3a06ce6a508.png" group-title="DEPORTES",CHIVAS TV HD
+http://158.69.52.43:8000/live/elec/6070/1753.m3u8
+#EXTINF:-1 tvg-id="chivas" tvg-name="CHIVAS TV FHD" tvg-logo="http://forounivers.com/uploads/monthly_2017_01/large.logo-chivas-tv.png.7ec08872af9e688a75eac3a06ce6a508.png" group-title="DEPORTES",CHIVAS TV FHD
+http://158.69.52.43:8000/live/elec/6070/3267.m3u8

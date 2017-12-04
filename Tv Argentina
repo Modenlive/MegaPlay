@@ -1,24 +1,24 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="America24.ar" tvg-name="America 24 AR" tvg-logo="http://1.bp.blogspot.com/-OQXV8MkhyEA/WdaNiL4syoI/AAAAAAAABj4/_HKoBs_ePdUaqD5ZKw1kjPpCkzVbkj8BwCK4BGAYYCw/s1600/a24.jpg" group-title="Argentina",A24 
-http://us.watcha.live/ch2/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://158.69.52.43:8000/live/elec/6070/1026.m3u8
 #EXTINF:-1 tvg-id="America2.ar" tvg-name="America 2 AR" tvg-logo="http://3.bp.blogspot.com/-EeJhD8HkwXs/WdaNiK-2vxI/AAAAAAAABkA/NnF-8sEYwmoTjdNWVvpA-4tf47dfN1UDwCK4BGAYYCw/s1600/america%2B2.jpg" group-title="Argentina",America 2
-http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/Playlist.m3u8|User-Agent=iPhone
+http://158.69.52.43:8000/live/elec/6070/1019.m3u8
 #EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N AR" tvg-logo="http://1.bp.blogspot.com/-viYjA4yvaUU/WdaNiQSrGGI/AAAAAAAABkQ/bMHv3i6MD3Q1HZnYpbww0ktc-vCJWGFWQCK4BGAYYCw/s1600/c5n.jpg" group-title="Argentina",C5N 
-http://us.watcha.live/ch1/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://158.69.52.43:8000/live/elec/6070/1024.m3u8
 #EXTINF:-1 tvg-id="Canal9.ar" tvg-name="Canal 9 AR" tvg-logo="http://2.bp.blogspot.com/-irFAxqQj1OQ/WdaNippDSlI/AAAAAAAABko/7YC8LScnTvYvGoJmXtCziwOTrhXogg94wCK4BGAYYCw/s1600/el%2B9.jpg" group-title="Argentina",Canal 9 
-http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 4.3; Nexus 7 Build/JSS15Q)
+http://158.69.52.43:8000/live/elec/6070/1023.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="El Trece" tvg-logo="http://1.bp.blogspot.com/-gSuD8MbjF98/WdaNiqpyeRI/AAAAAAAABk4/OsM1CZ7tsWwW-F7N1mwxGF03eioaJMMfgCK4BGAYYCw/s1600/el%2Btrece.jpg" group-title="Argentina",El Trece
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/1020.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
+http://158.69.52.43:8000/live/elec/6070/1020.m3u8
 #EXTINF:-1 tvg-id="Telefe.cl" tvg-name="Telefe CL" tvg-logo="http://4.bp.blogspot.com/-xHd7rFI0uXI/WdaNiwQoWMI/AAAAAAAABlI/yDYlhn09Fm0o0gnlJ83sotvf5I_5uR2VACK4BGAYYCw/s1600/telefe.jpg" group-title="Argentina",Telefe 
-plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/elec/6070/1021.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=Elecdeka
+http://158.69.52.43:8000/live/elec/6070/1021.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-cZcn_5Fz-Nw/WdaNiTlbleI/AAAAAAAABkg/XvBWTxapTOQQO943BlgRTenMuTpGMOT3QCK4BGAYYCw/s1600/Ciudad%2BMagazing.jpg" group-title="Argentina",Ciudad Magazine
 http://prepublish.f.qaotic.net/f01/ngrp:magazine_live01-100083_all/chunklist_b346000.m3u8|Referer=http://vmf.edge-apps.net&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="26Tv.ar" tvg-name="Canal 26" tvg-logo="http://4.bp.blogspot.com/-ivOg2-zfAOk/WdaNifM-XaI/AAAAAAAABkY/3lI2oa12M7sF_UfjKwTvsPtDSl545jCEwCK4BGAYYCw/s1600/canal%2B26.jpg" group-title="Argentina",Canal 26
-http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+http://158.69.52.43:8000/live/elec/6070/1033.m3u8
 #EXTINF:-1 tvg-id="247Noticias.ar" tvg-name="Todo Noticias AR" tvg-logo="http://2.bp.blogspot.com/-mKzT0kbtZME/WdaNhzuSNGI/AAAAAAAABjo/GsMLZW9HeXAfZ3FmlAJti7vuFdW5XTbdwCK4BGAYYCw/s1600/tn.jpg" group-title="Argentina",Todo Noticias 
-http://prepublish.f.qaotic.net/a04/ngrp:tn_live01-100083_all/chunklist.m3u8|Referer=http://vmf.edge-apps.net&User-Agent=Mozilla/5.0
+http://158.69.52.43:8000/live/elec/6070/1025.m3u8
 #EXTINF:-1 tvg-id="cronicatv" tvg-name="Cronica TV" tvg-logo="http://4.bp.blogspot.com/-cuQjZ_R9GqA/WdaUYzy4RzI/AAAAAAAABlo/UdJ9qB2sOqkj-Rm66sm_T_1X9zkUwRcHgCK4BGAYYCw/s1600/cronica.jpg" group-title="Argentina",Cronica TV
-http://us.watcha.live/ch18/hi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://158.69.52.43:8000/live/elec/6070/1028.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Publica AR" tvg-logo="http://3.bp.blogspot.com/-YlgzlTL9iG8/WdaNhyi7ldI/AAAAAAAABjw/QdLd_Y75dCMzEN39qlnZyM8_vgyA_UTpwCK4BGAYYCw/s1600/Tvp.jpg" group-title="Argentina",TV Publica 
-http://prepublish.f.qaotic.net/a02/ngrp:c7live01-20034_all/Playli
+http://158.69.52.43:8000/live/elec/6070/1022.m3u8

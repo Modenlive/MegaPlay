@@ -1,66 +1,66 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC MX" tvg-logo="http://static.iptv-epg.com/es/AMC.es.png" group-title="PELICULAS",AMC MX
-http://158.69.52.43:8000/live/elec/6070/85.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/85.m3u8
 #EXTINF:-1 tvg-id="AztecaHonduras.hn" tvg-name="Azteca Cinema" tvg-logo="https://imagenes.gatotv.com/logos/canales/az_cinema.png" group-title="PELICULAS",Azteca Cinema
-http://158.69.52.43:8000/live/elec/6070/74.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/74.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal MX" tvg-logo="https://4.bp.blogspot.com/-KprWUWjnVWw/VpH26fheSJI/AAAAAAAAAm0/fRJpNzL2lKA/s200/_0036_cine_canal.png" group-title="PELICULAS",Cinecanal MX
-http://158.69.52.43:8000/live/elec/6070/75.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/75.m3u8
 #EXTINF:-1 tvg-id="CinecanalPlus.mx" tvg-name="Cinecanal+ MX" tvg-logo="https://2.bp.blogspot.com/-kxQoTv6Y6Fw/VmX_Nbt38wI/AAAAAAAAASA/PwQuDp1GbZA/s200/CineCanal.png" group-title="PELICULAS",Cinecanal+ MX
-http://158.69.52.43:8000/live/elec/6070/81.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/81.m3u8
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Cinemax_logo_logo.png" group-title="PELICULAS",Cinemax MX
-http://158.69.52.43:8000/live/elec/6070/82.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/82.m3u8
 #EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="De Película MX" tvg-logo="https://s6.postimg.org/g69ky5vyp/846px-_De_Pel_cula.svg.png" group-title="PELICULAS",De Película MX
-http://158.69.52.43:8000/live/elec/6070/79.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/79.m3u8
 #EXTINF:-1 tvg-id="FoxAction.mx" tvg-name="Fox Action MX" tvg-logo="https://s6.postimg.org/f19tjlglt/foxaction.png" group-title="PELICULAS",Fox Action MX
-http://158.69.52.43:8000/live/elec/6070/70.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/70.m3u8
 #EXTINF:-1 tvg-id="FOX1.mx" tvg-name="Fox Premium Series" tvg-logo="https://s31.postimg.org/pvutadjcb/fox1.png" group-title="PELICULAS",Fox Premium Series
-http://158.69.52.43:8000/live/elec/6070/69.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/69.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FXM" tvg-logo="" group-title="PELICULAS",FXM
-http://158.69.52.43:8000/live/elec/6070/2450.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/2450.m3u8
 #EXTINF:-1 tvg-id="FoxCinema.mx" tvg-name="Fox Cinéma MX" tvg-logo="https://s32.postimg.org/dozuos8et/fox_cinema.png" group-title="PELICULAS",Fox Cinéma MX
-http://158.69.52.43:8000/live/elec/6070/72.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/72.m3u8
 #EXTINF:-1 tvg-id="FoxClassics.mx" tvg-name="Fox Classics MX" tvg-logo="https://s31.postimg.org/reaoftpbf/Fox_Classics.png" group-title="PELICULAS",Fox Classics MX
-http://158.69.52.43:8000/live/elec/6070/73.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/73.m3u8
 #EXTINF:-1 tvg-id="FoxMovies.mx" tvg-name="Fox Movies MX" tvg-logo="https://s32.postimg.org/ow3n5bfed/Fox_Movies_Peliculas_logo.png" group-title="PELICULAS",Fox Movies MX
-http://158.69.52.43:8000/live/elec/6070/71.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/71.m3u8
 #EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden HD MX" tvg-logo="https://s31.postimg.org/g07yzagmz/golden_hd.png" group-title="PELICULAS",Golden HD MX
-http://158.69.52.43:8000/live/elec/6070/77.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/77.m3u8
 #EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge MX" tvg-logo="https://s32.postimg.org/mz6gbwggl/golden_edg.png" group-title="PELICULAS",Golden Edge MX
-http://158.69.52.43:8000/live/elec/6070/84.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/84.m3u8
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="https://s6.postimg.org/t8qbgrej5/hbo.png" group-title="PELICULAS",HBO
-http://158.69.52.43:8000/live/elec/6070/181.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/181.m3u8
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO (op2)" tvg-logo="https://s6.postimg.org/t8qbgrej5/hbo.png" group-title="PELICULAS",HBO (op2)
-http://158.69.52.43:8000/live/elec/6070/3508.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/3508.m3u8
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2 MX" tvg-logo="https://s6.postimg.org/ylf5uw2fl/hbo2.png" group-title="PELICULAS",HBO 2 MX
-http://158.69.52.43:8000/live/elec/6070/378.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/378.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO 2 Family" tvg-logo="https://s6.postimg.org/vfuk4ojtd/HBO_Family_logo.png" group-title="PELICULAS",HBO 2 Family
-http://158.69.52.43:8000/live/elec/6070/182.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/182.m3u8
 #EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO 2 Plus" tvg-logo="https://s6.postimg.org/ipqbrlbv5/hboplus.png" group-title="PELICULAS",HBO 2 Plus
-http://158.69.52.43:8000/live/elec/6070/377.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/377.m3u8
 #EXTINF:-1 tvg-id="HBOPlusEste.ar" tvg-name="HBO PLUS ESTE" tvg-logo="https://s6.postimg.org/ipqbrlbv5/hboplus.png" group-title="PELICULAS",HBO PLUS ESTE
-http://158.69.52.43:8000/live/elec/6070/180.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/180.m3u8
 #EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBO Signature MX" tvg-logo="https://s32.postimg.org/quat4ix2d/HBO_signature.jpg" group-title="PELICULAS",HBO Signature
-http://158.69.52.43:8000/live/elec/6070/224.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/224.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature (LA)" tvg-logo="" group-title="PELICULAS",HBO Signature (LA)
-http://158.69.52.43:8000/live/elec/6070/3681.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/3681.m3u8
 #EXTINF:-1 tvg-id="ISat.ar" tvg-name="I-SAT MX" tvg-logo="https://s31.postimg.org/4f1271fqj/isat_logo_471x201.png" group-title="PELICULAS",I-SAT MX
-http://158.69.52.43:8000/live/elec/6070/88.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/88.m3u8
 #EXTINF:-1 tvg-id="MaxPrime.mx" tvg-name="Max Prime MX" tvg-logo="https://s6.postimg.org/crcihcswh/Max_Prime.png" group-title="PELICULAS",Max Prime MX
-http://158.69.52.43:8000/live/elec/6070/371.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/371.m3u8
 #EXTINF:-1 tvg-id="MaxPrimePanregional.mx" tvg-name="MAX Prime Panregional MX" tvg-logo="https://s6.postimg.org/crcihcswh/Max_Prime.png" group-title="PELICULAS",MAX Prime Panregional MX
-http://158.69.52.43:8000/live/elec/6070/370.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/370.m3u8
 #EXTINF:-1 tvg-id="Paramount.mx" tvg-name="Paramount MX" tvg-logo="https://s6.postimg.org/3ku7u2no1/paramount.png" group-title="PELICULAS",Paramount MX
-http://158.69.52.43:8000/live/elec/6070/365.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/365.m3u8
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="Space MX" tvg-logo="https://s32.postimg.org/5w455881h/space.png" group-title="PELICULAS",Space MX
-http://158.69.52.43:8000/live/elec/6070/80.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/80.m3u8
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="Space HD" tvg-logo="https://s6.postimg.org/ubs29r5n5/Space_hd.png" group-title="PELICULAS",Space HD
-http://158.69.52.43:8000/live/elec/6070/86.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/86.m3u8
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal MX" tvg-logo="https://s31.postimg.org/g269c061n/studio_uni.png" group-title="PELICULAS",Studio Universal MX
-http://158.69.52.43:8000/live/elec/6070/87.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/87.m3u8
 #EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM MX" tvg-logo="https://s6.postimg.org/6u8n0jbrl/nuevo_logo_tcm.png" group-title="PELICULAS",TCM MX
-http://158.69.52.43:8000/live/elec/6070/89.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/89.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT MX" tvg-logo="https://s6.postimg.org/pgydbh7bl/tnt_logo.png" group-title="PELICULAS",TNT MX
-http://158.69.52.43:8000/live/elec/6070/76.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/76.m3u8
 #EXTINF:-1 tvg-id="TNT.es" tvg-name="TNT ES" tvg-logo="https://s6.postimg.org/pgydbh7bl/tnt_logo.png" group-title="PELICULAS",TNT ES
-http://158.69.52.43:8000/live/elec/6070/83.m3u8
+http://158.69.52.43:8000/movie/elecuy/3844/83.m3u8

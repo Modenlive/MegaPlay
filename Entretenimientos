@@ -1,74 +1,80 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="AE.mx" tvg-name="A&E MX" tvg-logo="http://4.bp.blogspot.com/-waM8RfkfSCU/WgO3v9WTv7I/AAAAAAAACYg/yudwBzzYSSQMk8lGaUaEsKVCA2lst0EPwCK4BGAYYCw/s1600/aye.jpg" group-title="Entretenimientos",A&E 
+#EXTINF:-1 tvg-id="AE.mx" tvg-name="A&E MX" tvg-logo="https://s5.postimg.org/gz9no7d2v/aye.jpg" group-title="Entretenimientos",A&E 
 http://158.69.52.43:8000/live/elecuy/3844/19.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet MX" tvg-logo="http://4.bp.blogspot.com/-1tIny1hffu0/WgO4GNZmb2I/AAAAAAAACZs/7VYxobd7NgkD6cWgKGxN3772-Xebmz9oQCK4BGAYYCw/s1600/anumalplanet.jpg" group-title="Entretenimientos",Animal Planet 
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet MX" tvg-logo="http://z.cdn.entutele.com/media/channels/big/animal-planet.gif" group-title="Entretenimientos",Animal Planet 
 http://158.69.52.43:8000/live/elecuy/3844/60.m3u8
-#EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-name="Investigation Discovery MX" tvg-logo="https://s5.postimg.org/wyej2mcpz/id.jpg" group-title="Entretenimientos",Investigation Discovery 
+#EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-name="Investigation Discovery MX" tvg-logo="http://z.cdn.entutele.com/media/channels/big/investigacion-discovery.gif" group-title="Entretenimientos",Investigation Discovery 
 http://158.69.52.43:8000/live/elecuy/3844/32.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Crimen Investigation" tvg-logo="https://s5.postimg.org/ju8ypxcyf/cries.jpg" group-title="Entretenimientos",Crimen Investigation
-http://158.69.52.43:8000/live/elecuy/3844/3712.m3u8
-#EXTINF:-1 tvg-id="truTV.mx" tvg-name="Tru TV" tvg-logo="http://2.bp.blogspot.com/-ycDjMSSBcWo/WgO4GEIUwaI/AAAAAAAACZk/1ht3tUC1fT0RkIy7jvWDgFhajAn0_wg-ACK4BGAYYCw/s1600/trutv.jpg" group-title="Entretenimientos",Tru TV
+#EXTINF:-1 tvg-id="truTV.mx" tvg-name="Tru TV" tvg-logo="http://z.cdn.entutele.com/media/channels/big/trutv.gif" group-title="Entretenimientos",Tru TV
 http://158.69.52.43:8000/live/elecuy/3844/21.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central MX" tvg-logo="http://2.bp.blogspot.com/-_ZKdHZxChcg/WgO4F5HddNI/AAAAAAAACZo/zjoBv_O4wEI1Nx_ZfwYZyP6-SQTxzevWgCK4BGAYYCw/s1600/comedycenter.jpg" group-title="Entretenimientos",Comedy Central 
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central MX" tvg-logo="http://z.cdn.entutele.com/media/channels/big/comedy-central-hd.gif" group-title="Entretenimientos",Comedy Central 
 http://158.69.52.43:8000/live/elecuy/3844/22.m3u8
-#EXTINF:-1 tvg-id="5Nacional.mx" tvg-name="Canal 5" tvg-logo="http://1.bp.blogspot.com/-GhhuJnCvOxk/WgO3mk19C0I/AAAAAAAACW0/Sd4rwE2w2yk1A81XT30RTcAorBgg0oGowCK4BGAYYCw/s1600/5.jpg" group-title="Entretenimientos",Canal 5
+#EXTINF:-1 tvg-id="5Nacional.mx" tvg-name="Canal 5" tvg-logo="http://z.cdn.entutele.com/media/channels/big/canal-5.gif" group-title="Entretenimientos",Canal 5
 http://158.69.52.43:8000/live/elecuy/3844/3.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7 MX" tvg-logo="http://2.bp.blogspot.com/-b3XJF-L7FPM/WgO4GMFsU6I/AAAAAAAACZg/9EIy0pLCTtgcKwxUckJHwjEsdbuPuVlNgCK4BGAYYCw/s1600/azteca7.jpg" group-title="Entretenimientos",Azteca 7 
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7 MX" tvg-logo="http://z.cdn.entutele.com/media/channels/big/azteca-7.gif" group-title="Entretenimientos",Azteca 7 
 http://158.69.52.43:8000/live/elecuy/3844/5.m3u8
-#EXTINF:-1 tvg-id="CNNespanol.ar" tvg-name="CNN Español" tvg-logo="http://4.bp.blogspot.com/-zGlLS-bcW5s/WgtOuJWiX0I/AAAAAAAACjA/Cn0QPxZcWK0Kfms288MXTHN8V25f9F0gQCK4BGAYYCw/s1600/cnn.jpg" group-title="Entretenimientos",CNN Español
+#EXTINF:-1 tvg-id="CNNespanol.ar" tvg-name="CNN Español" tvg-logo="http://z.cdn.entutele.com/media/channels/big/cnn-hd.gif" group-title="Entretenimientos",CNN Español
 http://158.69.52.43:8000/live/elecuy/3844/197.m3u8
-#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia MX" tvg-logo="http://2.bp.blogspot.com/-WdYUDC0ulRI/WgO3wAJ0nhI/AAAAAAAACYo/5EHPslKSnYofpTSNoKulSnq9YLEcBCDtwCK4BGAYYCw/s1600/detrifivo.jpg" group-title="Entretenimientos",Distrito Comedia 
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia MX" tvg-logo="http://z.cdn.entutele.com/media/channels/big/distrito-comedia.gif" group-title="Entretenimientos",Distrito Comedia 
 http://158.69.52.43:8000/live/elecuy/3844/38.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="Discovery Channel MX" tvg-logo="http://3.bp.blogspot.com/-_hvITrW9k28/WgO3vsITRfI/AAAAAAAACYA/mFtiPif4pCM8yUjfMj3r_Qdw8RY-M8tAgCK4BGAYYCw/s1600/discoverito.jpg" group-title="Entretenimientos",Discovery Channel 
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="Discovery Channel MX" tvg-logo="http://z.cdn.entutele.com/media/channels/big/discovery-channel.gif" group-title="Entretenimientos",Discovery Channel 
 http://158.69.52.43:8000/live/elecuy/3844/59.m3u8
-#EXTINF:-1 tvg-id="DiscoveryCivilization.co" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="http://3.bp.blogspot.com/-8VuvDHS9NT8/WgO3vrsHcwI/AAAAAAAACX4/_TPayhHGqmcQmL_dBti-kmYvLcon58fegCK4BGAYYCw/s1600/dicocivilito.jpg" group-title="Entretenimientos",Discovery civilization
+#EXTINF:-1 tvg-id="DiscoveryCivilization.co" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="http://z.cdn.entutele.com/media/channels/big/discovery-civilization.gif" group-title="Entretenimientos",Discovery civilization
 http://158.69.52.43:8000/live/elecuy/3844/65.m3u8
-#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="Discovery Home & Health MX" tvg-logo="http://1.bp.blogspot.com/-hW2bYvyB0sc/WgO3vgNN1nI/AAAAAAAACYI/KM4HYmMYacQlRSpYWgxzeOwG99Gjp6PewCK4BGAYYCw/s1600/hfhfhf.jpg" group-title="Entretenimientos",Discovery Home & Health 
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="Discovery Home & Health MX" tvg-logo="http://z.cdn.entutele.com/media/channels/big/home-and-health.gif" group-title="Entretenimientos",Discovery Home & Health 
 http://158.69.52.43:8000/live/elecuy/3844/61.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience.in" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://2.bp.blogspot.com/-CclpPBU15ww/WgO3vvMeZyI/AAAAAAAACYM/_xrtCooviYsRgnk9Kew2833zjxZ1Pc6cwCK4BGAYYCw/s1600/siencie.jpg" group-title="Entretenimientos",Discovery science
+#EXTINF:-1 tvg-id="DiscoveryScience.in" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://z.cdn.entutele.com/media/channels/big/discovery-science.gif" group-title="Entretenimientos",Discovery science
 http://158.69.52.43:8000/live/elecuy/3844/64.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="Discovery Theater MX" tvg-logo="http://1.bp.blogspot.com/-gljVEvCwOxA/WgO3vxZcqDI/AAAAAAAACYQ/cM_P0mrIdQALzkmNoUcnHnZWKE0-6lKmQCK4BGAYYCw/s1600/fghdt.jpg" group-title="Entretenimientos",Discovery Theater 
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="Discovery Theater MX" tvg-logo="http://z.cdn.entutele.com/media/channels/big/discovery-theater-hd.gif" group-title="Entretenimientos",Discovery Theater 
 http://158.69.52.43:8000/live/elecuy/3844/55.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTurbo.co" tvg-name="DISCOVERY TURBO" tvg-logo="http://2.bp.blogspot.com/-lzDg11jDeHs/WgO3v75hmdI/AAAAAAAACYU/uW-n2hGtcPInNvJFQgqfavOmy_d8rgKqACK4BGAYYCw/s1600/turf.jpg" group-title="Entretenimientos",DISCOVERY TURBO
+#EXTINF:-1 tvg-id="DiscoveryTurbo.co" tvg-name="DISCOVERY TURBO" tvg-logo="http://z.cdn.entutele.com/media/channels/big/discovery-turbo.gif" group-title="Entretenimientos",DISCOVERY TURBO
 http://158.69.52.43:8000/live/elecuy/3844/66.m3u8
-#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World MX" tvg-logo="http://3.bp.blogspot.com/-HfEbEeHjvCA/WgO4Fz9G50I/AAAAAAAACZY/qYllHi-5WIguysWRYzh_wH_UesDOAwJHACK4BGAYYCw/s1600/word.jpg" group-title="Entretenimientos",Discovery World 
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World MX" tvg-logo="http://z.cdn.entutele.com/media/channels/big/discovery-world-hd.gif" group-title="Entretenimientos",Discovery World 
 http://158.69.52.43:8000/live/elecuy/3844/58.m3u8
-#EXTINF:-1 tvg-id="EEntertainment Television.mx" tvg-name="E! Entertainment" tvg-logo="http://2.bp.blogspot.com/-pb1-NH04WxM/WgtOt-tlBkI/AAAAAAAACi0/TVhpZgGSJ6Af_FPkzib8ERL9KKrr5X5hgCK4BGAYYCw/s1600/ee.jpg" group-title="Entretenimientos",E! Entertainment
+#EXTINF:-1 tvg-id="EEntertainment Television.mx" tvg-name="E! Entertainment" tvg-logo="http://z.cdn.entutele.com/media/channels/big/e-entertainment-television.gif" group-title="Entretenimientos",E! Entertainment
 http://158.69.52.43:8000/live/elecuy/3844/29.m3u8
-#EXTINF:-1 tvg-id="Glitz.mx" tvg-name="Glitz " tvg-logo="http://4.bp.blogspot.com/-pFP9BRtQtYo/WgO4GEsK9uI/AAAAAAAACZc/Nrq9ANsEtWYOAG5LQlEaRMW7m3uV3nO3QCK4BGAYYCw/s1600/glitff.jpg" group-title="Entretenimientos",Glitz
+#EXTINF:-1 tvg-id="FoxLife.mx" tvg-name="Fox Life MX" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-life.gif" group-title="Entretenimientos",Fox Life
+http://158.69.52.43:8000/live/elecuy/3844/37.m3u8
+#EXTINF:-1 tvg-id="Glitz.mx" tvg-name="Glitz " tvg-logo="http://z.cdn.entutele.com/media/channels/big/glitz.gif" group-title="Entretenimientos",Glitz
 http://158.69.52.43:8000/live/elecuy/3844/36.m3u8
 #EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="El Gourmet" tvg-logo="https://4.bp.blogspot.com/-oXOJKuGckoY/WgZOQqQxNrI/AAAAAAAACf4/Mju2LwwjBkMtlFCkw_BQHnDhtx4xvnFcACK4BGAYYCw/s320/greto.jpg" group-title="Entretenimientos",El Gourmet
 http://158.69.52.43:8000/live/elecuy/3844/34.m3u8
-#EXTINF:-1 tvg-id="H2.co" tvg-name="H2 (LA)" tvg-logo="http://3.bp.blogspot.com/-kneR7zsghzc/WgO3v83Op1I/AAAAAAAACYs/jCNPRn9YQ5ASKWkgqkgyaHSgmbOhaqapACK4BGAYYCw/s1600/h2.jpg" group-title="Entretenimientos",H2 (LA)
+#EXTINF:-1 tvg-id="H2.co" tvg-name="H2 (LA)" tvg-logo="http://z.cdn.entutele.com/media/channels/big/h2.gif" group-title="Entretenimientos",H2 (LA)
 http://158.69.52.43:8000/live/elecuy/3844/183.m3u8
-#EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="History Channel MX" tvg-logo="http://4.bp.blogspot.com/-I4dRkHbCdvw/WgO3vw9_xyI/AAAAAAAACYY/JNejntXqVBYsWqgTisuGasU3YPTSoiclwCK4BGAYYCw/s1600/history.jpg" group-title="Entretenimientos",History Channel 
+#EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="History Channel MX" tvg-logo="http://z.cdn.entutele.com/media/channels/big/history-channel.gif" group-title="Entretenimientos",History Channel 
 http://158.69.52.43:8000/live/elecuy/3844/56.m3u8
 #EXTINF:-1 tvg-id="HolaTv.ar" tvg-name="Hola TV" tvg-logo="http://4.bp.blogspot.com/-0OyY2kQq_H4/WgO4GIMOVAI/AAAAAAAACZw/_jXIDlf-An0fNMfaljoh2vmFH4iZFxkGACK4BGAYYCw/s1600/hola%2Btv.jpg" group-title="Entretenimientos",Hola TV
 http://158.69.52.43:8000/live/elecuy/3844/24.m3u8
-#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="Lifetime MX" tvg-logo="http://3.bp.blogspot.com/-KhYUN0abWjg/WgO4Fxaq0aI/AAAAAAAACY8/K6VN6RAhYBABn4Yul5flf-ZeK3F49FumACK4BGAYYCw/s1600/lifetimesd.jpg" group-title="Entretenimientos",Lifetime 
+#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="Lifetime MX" tvg-logo="http://z.cdn.entutele.com/media/channels/big/lifetime.gif" group-title="Entretenimientos",Lifetime 
 http://158.69.52.43:8000/live/elecuy/3844/63.m3u8
 #EXTINF:-1 tvg-id="NATGEO MUNDO" tvg-name="Nat Geo Mundo" tvg-logo="http://1.bp.blogspot.com/-65zvMV9Yghc/WgO3v0AYjmI/AAAAAAAACYw/mJSMjRT3b0U21t7a0B3W3YkJMSqHZKQQwCK4BGAYYCw/s1600/fsfk.jpg" group-title="Entretenimientos",Nat Geo Mundo
 http://158.69.52.43:8000/live/elecuy/3844/2847.m3u8
-#EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="National Geographic MX" tvg-logo="http://4.bp.blogspot.com/-bdKO4TDcsvI/WgO3vz3nRVI/AAAAAAAACYc/2dm6y3GWY4gbYFN9sik3fHTEJMEvvyv_gCK4BGAYYCw/s1600/hfhf.jpg" group-title="Entretenimientos",National Geographic 
+#EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="National Geographic MX" tvg-logo="http://z.cdn.entutele.com/media/channels/big/natgeo.gif" group-title="Entretenimientos",National Geographic 
 http://158.69.52.43:8000/live/elecuy/3844/62.m3u8
-#EXTINF:-1 tvg-id="NatGeoWild.mx" tvg-name="National Geographic Wild MX" tvg-logo="http://3.bp.blogspot.com/-vTyUe4_n6As/WgO8gdhwhTI/AAAAAAAACZ8/MTfF1tYHhZIWNSTXx0vXdH8hbT0Lb5auQCK4BGAYYCw/s1600/wild.jpg" group-title="Entretenimientos",National Geographic Wild MX
+#EXTINF:-1 tvg-id="NatGeoWild.mx" tvg-name="National Geographic Wild MX" tvg-logo="http://z.cdn.entutele.com/media/channels/big/natgeo-wild.gif" group-title="Entretenimientos",National Geographic Wild MX
 http://158.69.52.43:8000/live/elecuy/3844/57.m3u8
-#EXTINF:-1 tvg-id="MasChicTV.mx" tvg-name="Mas Chic TV" tvg-logo="http://4.bp.blogspot.com/-_-4xzYzcJsI/WgO3v2nbBvI/AAAAAAAACYk/2no4D9B5g9YpQgNnklzsbt_gKbo1iD9xwCK4BGAYYCw/s1600/maschic.jpg" group-title="Entretenimientos",Mas Chic TV
+#EXTINF:-1 tvg-id="MasChicTV.mx" tvg-name="Mas Chic TV" tvg-logo="http://z.cdn.entutele.com/media/channels/big/mas-chic.gif" group-title="Entretenimientos",Mas Chic TV
 http://158.69.52.43:8000/live/elecuy/3844/26.m3u8
-#EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="Telemundo" tvg-logo="http://4.bp.blogspot.com/-V_oIHAh6aVM/WgO3mVCxTeI/AAAAAAAACWk/NJv05m8PLIcWqVyxF0l1E347RUAS-nBPgCK4BGAYYCw/s1600/telemundo.jpg" group-title="Entretenimientos",Telemundo
-http://158.69.52.43:8000/live/elecuy/3844/111.m3u8
-#EXTINF:-1 tvg-id="Telemundo.ar" tvg-name="Telemundo Internacional" tvg-logo="http://4.bp.blogspot.com/-V_oIHAh6aVM/WgO3mVCxTeI/AAAAAAAACWk/NJv05m8PLIcWqVyxF0l1E347RUAS-nBPgCK4BGAYYCw/s1600/telemundo.jpg" group-title="Entretenimientos",Telemundo Internacional
+#EXTINF:-1 tvg-id="Telemundo.ar" tvg-name="Telemundo Internacional" tvg-logo="https://s5.postimg.org/hugtu8h53/telemundo.jpg" group-title="Entretenimientos",Telemundo Internacional
 http://158.69.52.43:8000/live/elecuy/3844/358.m3u8
-#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC MX" tvg-logo="http://3.bp.blogspot.com/-Bf3OWSaI_3E/WgO3vpffMMI/AAAAAAAACXQ/T7OeFMiPfmQy6rZkvyWBlwfbR6yX5IpdQCK4BGAYYCw/s1600/tlc.jpg" group-title="Entretenimientos",TLC 
+#EXTINF:-1 tvg-id="Telemundo.co" tvg-name="TeleMundo PT" tvg-logo="https://s5.postimg.org/hugtu8h53/telemundo.jpg" group-title="Entretenimientos",TeleMundo PT
+http://158.69.52.43:8000/live/elecuy/3844/1167.m3u8
+#EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="Telemundo" tvg-logo="https://s5.postimg.org/hugtu8h53/telemundo.jpg" group-title="Entretenimientos",Telemundo
+http://158.69.52.43:8000/live/elecuy/3844/111.m3u8
+#EXTINF:-1 tvg-id="Tlnovelas.co" tvg-name="TL Novelas" tvg-logo="https://s6.postimg.org/dpjos5rgx/tlnovelas-logo.png" group-title="Entretenimientos",TL Novelas
+http://158.69.52.43:8000/live/elecuy/3844/356.m3u8
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC MX" tvg-logo="http://z.cdn.entutele.com/media/channels/big/tlc.gif" group-title="Entretenimientos",TLC 
 http://158.69.52.43:8000/live/elecuy/3844/67.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVC" tvg-logo="http://3.bp.blogspot.com/-iLTj-rZ6sMY/WgO3me_MGqI/AAAAAAAACWs/-AaYSTfBZgIivZ9RBM8sY1RHWaLSCTRbACK4BGAYYCw/s1600/tvc.jpg" group-title="Entretenimientos",TVC
+#EXTINF:-1 tvg-id="" tvg-name="TVC" tvg-logo="http://z.cdn.entutele.com/media/channels/big/tvc-cine-mexicano.gif" group-title="Entretenimientos",TVC
 http://158.69.52.43:8000/live/elecuy/3844/3506.m3u8
 #EXTINF:-1 tvg-id="TVE.ar" tvg-name="TVE" tvg-logo="http://1.bp.blogspot.com/-cn9yRhNnUNE/WgO3mtglLpI/AAAAAAAACWw/hjbUr2c-QQAxAv9qZP7gRohSHpiSFnaCwCK4BGAYYCw/s1600/tve.jpg" group-title="Entretenimientos",TVE
 http://158.69.52.43:8000/live/elecuy/3844/100.m3u8
-#EXTINF:-1 tvg-id="UniMas.us" tvg-name="Unimas" tvg-logo="https://3.bp.blogspot.com/-uA6-KzGHgCg/Wd42iGVioAI/AAAAAAAACA8/FP2Hid_yWGUCAB4fZ063flHloL4gFwWOACK4BGAYYCw/s320/unimas.jpg" group-title="Entretenimientos",Unimas
-http://158.69.52.43:8000/live/elecuy/3844/482.m3u8
-#EXTINF:-1 tvg-id="Univision.co" tvg-name="Univision Canales HD" tvg-logo="http://4.bp.blogspot.com/-H0QKjYKEH_w/WeAdBYJch-I/AAAAAAAACEI/Ot08WOg2JvMW4edqMb7VNovZpz7ktttkQCK4BGAYYCw/s1600/univision.jpg" group-title="Entretenimientos",Univision 
+#EXTINF:-1 tvg-id="Univision.co" tvg-name="Univision HD" tvg-logo="https://s6.postimg.org/9mu32qonl/univision.png" group-title="Entretenimientos",Univision HD
 http://158.69.52.43:8000/live/elecuy/3844/1455.m3u8
-#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable MX" tvg-logo="http://1.bp.blogspot.com/-SElVbgJgrFA/WgO3mg0N3fI/AAAAAAAACW4/DiVDGYzvt5wZ05BwHWvhvxG35JOC5WGsgCK4BGAYYCw/s1600/unicsd.jpg" group-title="Entretenimientos",Unicable 
+#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable MX" tvg-logo="http://z.cdn.entutele.com/media/channels/big/unicable.gif" group-title="Entretenimientos",Unicable 
 http://158.69.52.43:8000/live/elecuy/3844/23.m3u8
+#EXTINF:-1 tvg-id="UniMas.us" tvg-name="Unimas" tvg-logo="https://s26.postimg.org/agxn52f5l/descarga.jpg" group-title="Entretenimientos",Unimas
+http://158.69.52.43:8000/live/elecuy/3844/482.m3u8
+#EXTINF:-1 tvg-id="wobi" tvg-name="WOBI" tvg-logo="https://s26.postimg.org/ppnkiu149/descarga_(1).jpg" group-title="Entretenimientos",WOBI
+http://158.69.52.43:8000/live/elecuy/3844/2862.m3u8

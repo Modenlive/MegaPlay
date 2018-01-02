@@ -1,41 +1,32 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="BabyTV.mx" tvg-name="Baby TV MX" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest?cb=20111201223043" group-title="INFANTILES",Baby TV MX
-http://158.69.52.43:8000/live/elec/6070/408.m3u8
-#EXTINF:-1 tvg-id="Boomerang.mx" tvg-name="Boomerang MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Boomerang_2006-2008_logo.svg/2000px-Boomerang_2006-2008_logo.svg.png" group-title="INFANTILES",Boomerang MX
-http://158.69.52.43:8000/live/elec/6070/52.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1280px-Cartoon_Network_2004_logo.svg.png" group-title="INFANTILES",Cartoon Network MX
-http://158.69.52.43:8000/live/elec/6070/50.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="Cartoon Network UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1280px-Cartoon_Network_2004_logo.svg.png" group-title="INFANTILES",Cartoon Network UK
-http://158.69.52.43:8000/live/elec/6070/247.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon (US)" tvg-logo="" group-title="INFANTILES",Nickelodeon (US)
-http://158.69.52.43:8000/live/elec/6070/3934.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids MX" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/e/e6/Logo_Discovery_Kids_2016.png/revision/latest?cb=20170514011540" group-title="INFANTILES",Discovery Kids MX
-http://158.69.52.43:8000/live/elec/6070/42.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="Disney Junior MX" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/7/70/Disney_Junior.png/revision/latest?cb=20151003232641&path-prefix=es" group-title="INFANTILES",Disney Junior MX
-http://158.69.52.43:8000/live/elec/6070/44.m3u8
-#EXTINF:-1 tvg-id="Disney.mx" tvg-name="Disney MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Disney_Channel_logo.svg/1280px-2015_Disney_Channel_logo.svg.png" group-title="INFANTILES",Disney MX
-http://158.69.52.43:8000/live/elec/6070/46.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="Disney XD MX" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/5/5a/DisneyXD_2015-01.svg.png/revision/latest?cb=20151002205150&path-prefix=es" group-title="INFANTILES",Disney XD MX
-http://158.69.52.43:8000/live/elec/6070/51.m3u8
-#EXTINF:-1 tvg-id="FoxFamily.mx" tvg-name="Fox Family MX" tvg-logo="http://2.bp.blogspot.com/-XHnOowpWbpk/VAedVYhXB2I/AAAAAAAAEIk/4YzviVLDT60/s1600/Logo%2BFox_Family.png" group-title="INFANTILES",Fox Family MX
-http://158.69.52.43:8000/live/elec/6070/186.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS" tvg-logo="http://www.todotvnews.com/ttvnews/2017/05/resize1_NGKidsAssets.ai-01.png" group-title="INFANTILES",NAT GEO KIDS
-http://158.69.52.43:8000/live/elec/6070/3280.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="Nickelodeon MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/nickelodeon.png" group-title="INFANTILES",Nickelodeon MX
-http://158.69.52.43:8000/live/elec/6070/49.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon2.mx" tvg-name="Nickelodeon 2 MX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Nick_2_Logo.svg/400px-Nick_2_Logo.svg.png" group-title="INFANTILES",Nickelodeon 2 MX
-http://158.69.52.43:8000/live/elec/6070/48.m3u8
-#EXTINF:-1 tvg-id="NickJr..mx" tvg-name="Nick Jr. MX" tvg-logo="http://static.iptv-epg.com/us/NickJr.us.png" group-title="INFANTILES",Nick Jr. MX
-http://158.69.52.43:8000/live/elec/6070/45.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.de" tvg-name="NICK TOONS" tvg-logo="http://static.iptv-epg.com/de/Nicktoons.de.png" group-title="INFANTILES",NICK TOONS
-http://158.69.52.43:8000/live/elec/6070/47.m3u8
-#EXTINF:-1 tvg-id="PAKA.ar" tvg-name="Pakapaka AR" tvg-logo="https://s6.postimg.org/h7qoeyyj5/PkPk.png" group-title="INFANTILES",Pakapaka AR
-http://158.69.52.43:8000/live/elec/6070/1029.m3u8
-#EXTINF:-1 tvg-id="SkyMoviesDisney.nz" tvg-name="Sky Movies Family HD" tvg-logo="https://s6.postimg.org/f6d5xfjgx/skyfa.png" group-title="INFANTILES",Sky Movies Family HD
-http://158.69.52.43:8000/live/elec/6070/325.m3u8
-#EXTINF:-1 tvg-id="TiiN.mx" tvg-name="TiiN MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/tiin.png" group-title="INFANTILES",TiiN MX
-http://158.69.52.43:8000/live/elec/6070/53.m3u8
-#EXTINF:-1 tvg-id="Tooncast.co" tvg-name="Tooncast" tvg-logo="https://imagenes.gatotv.com/logos/canales/tooncast.png" group-title="INFANTILES",Tooncast
-http://158.69.52.43:8000/live/elec/6070/54.m3u8
-
+#EXTINF:-1 tvg-id="BabyTV.mx" tvg-name="Baby TV MX" tvg-logo="https://s26.postimg.org/wrl1lt0op/trasuchi.jpg" group-title="INFANTILES",Baby TV
+http://158.69.52.43:8000/live/elecuy/3844/408.m3u8
+#EXTINF:-1 tvg-id="Boomerang.mx" tvg-name="Boomerang MX" tvg-logo="https://s5.postimg.org/qa6ec7paf/bomby.jpg" group-title="INFANTILES",Boomerang
+http://158.69.52.43:8000/live/elecuy/3844/52.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network MX" tvg-logo="https://s5.postimg.org/pyoxz1gfr/cartonnet.jpg" group-title="INFANTILES",Cartoon Network
+http://158.69.52.43:8000/live/elecuy/3844/50.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids MX" tvg-logo="https://s26.postimg.org/yw5emvull/pugf.jpg" group-title="INFANTILES",Discovery Kids
+http://158.69.52.43:8000/live/elecuy/3844/42.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="Disney Junior MX" tvg-logo="https://s26.postimg.org/o4biiq1hl/disney_junior.jpg" group-title="INFANTILES",Disney Junior
+http://158.69.52.43:8000/live/elecuy/3844/44.m3u8
+#EXTINF:-1 tvg-id="Disney.mx" tvg-name="Disney MX" tvg-logo="https://s5.postimg.org/3mr55hh9z/disnch.jpg" group-title="INFANTILES",Disney
+http://158.69.52.43:8000/live/elecuy/3844/46.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="Disney XD MX" tvg-logo="https://s26.postimg.org/vkas4ihh5/disneixd.jpg" group-title="INFANTILES",Disney XD
+http://158.69.52.43:8000/live/elecuy/3844/51.m3u8
+#EXTINF:-1 tvg-id="FoxFamily.mx" tvg-name="Fox Family MX" tvg-logo="https://s5.postimg.org/g1dx5tvxj/fgfd.jpg" group-title="INFANTILES",Fox Family
+http://158.69.52.43:8000/live/elecuy/3844/186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS" tvg-logo="https://s5.postimg.org/x1wteiw47/fvg.jpg" group-title="INFANTILES",NAT GEO KIDS
+http://158.69.52.43:8000/live/elecuy/3844/3280.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="Nickelodeon MX" tvg-logo="https://s5.postimg.org/jxr91ubs7/nichelodium.jpg" group-title="INFANTILES",Nickelodeon
+http://158.69.52.43:8000/live/elecuy/3844/49.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon2.mx" tvg-name="Nickelodeon 2 MX" tvg-logo="https://s5.postimg.org/88n9e0iaf/nick2.jpg" group-title="INFANTILES",Nickelodeon 2
+http://158.69.52.43:8000/live/elecuy/3844/48.m3u8
+#EXTINF:-1 tvg-id="NickJr..mx" tvg-name="Nick Jr. MX" tvg-logo="https://s5.postimg.org/88n9dvsjb/nikjd.jpg" group-title="INFANTILES",Nick Jr
+http://158.69.52.43:8000/live/elecuy/3844/45.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.de" tvg-name="NICK TOONS" tvg-logo="https://s5.postimg.org/rqhwtsulz/frdf.jpg" group-title="INFANTILES",NICK TOONS
+http://158.69.52.43:8000/live/elecuy/3844/47.m3u8
+#EXTINF:-1 tvg-id="TiiN.mx" tvg-name="TiiN MX" tvg-logo="https://s5.postimg.org/3zijbpwzr/tiin.jpg" group-title="INFANTILES",TiiN MX
+http://158.69.52.43:8000/live/elecuy/3844/53.m3u8
+#EXTINF:-1 tvg-id="Tooncast.co" tvg-name="Tooncast" tvg-logo="https://s5.postimg.org/hgfhujpav/fdfdf.jpg" group-title="INFANTILES",Tooncast
+http://158.69.52.43:8000/live/elecuy/3844/54.m3u8

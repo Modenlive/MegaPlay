@@ -1,0 +1,108 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="AE.mx" tvg-name="A&E HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/ae-hd.gif" group-title="HD",A&E HD
+http://158.69.52.43:8000/live/elecuy/3844/124.m3u8
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC  HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/amc-hd.gif" group-title="HD",AMC HD 
+http://158.69.52.43:8000/live/elecuy/3844/157.m3u8
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/axn-hd.gif" group-title="HD",AXN HD
+http://158.69.52.43:8000/live/elecuy/3844/125.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA 7" tvg-logo="http://z.cdn.entutele.com/media/channels/big/azteca-7-hd.gif" group-title="HD",AZTECA 7 HD
+http://158.69.52.43:8000/live/elecuy/3844/3861.m3u8
+#EXTINF:-1 tvg-id="Azteca13.mx" tvg-name="AZTECA 13" tvg-logo="http://z.cdn.entutele.com/media/channels/big/az-clic.gif" group-title="HD",AZTECA 13 HD
+http://158.69.52.43:8000/live/elecuy/3844/3862.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 5 (MEX)" tvg-logo="http://z.cdn.entutele.com/media/channels/big/canal-5-hd.gif" group-title="HD",CANAL 5 HD
+http://158.69.52.43:8000/live/elecuy/3844/3860.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network MX HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/cartoon-network.gif" group-title="HD",Cartoon Network HD
+http://158.69.52.43:8000/live/elecuy/3844/126.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal MX HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/cinecanal-hd.gif" group-title="HD",Cinecanal HD
+http://158.69.52.43:8000/live/elecuy/3844/113.m3u8
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax MX HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/cinemax-o.gif" group-title="HD",Cinemax HD
+http://158.69.52.43:8000/live/elecuy/3844/865.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/comedy-central-hd.gif" group-title="HD",COMEDY CENTRAL HD
+http://158.69.52.43:8000/live/elecuy/3844/3538.m3u8
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="De Película MX HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/de-pelicula-hd.gif" group-title="HD",De Película HD
+http://158.69.52.43:8000/live/elecuy/3844/866.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/discovery-channel.gif" group-title="HD",DISCOVERY CHANNEL HD
+http://158.69.52.43:8000/live/elecuy/3844/3539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/e-entertainment-television.gif" group-title="HD",E! ENTERTAINMENT HD
+http://158.69.52.43:8000/live/elecuy/3844/3856.m3u8
+#EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="ESPN MX HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/espn-hd.gif" group-title="HD",ESPN HD
+http://158.69.52.43:8000/live/elecuy/3844/119.m3u8
+#EXTINF:-1 tvg-id="Espn2.mx" tvg-name="ESPN 2 MX HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/espn-2.gif" group-title="HD",ESPN 2 HD
+http://158.69.52.43:8000/live/elecuy/3844/152.m3u8
+#EXTINF:-1 tvg-id="ESPN3.mx" tvg-name="ESPN 3 MX HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/espn-3.gif" group-title="HD",ESPN 3 HD
+http://158.69.52.43:8000/live/elecuy/3844/153.m3u8
+#EXTINF:-1 tvg-id="FOX1.mx" tvg-name="Fox Premium Series HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-premium-series-hd.gif" group-title="HD",Fox Premium Series HD
+http://158.69.52.43:8000/live/elecuy/3844/120.m3u8
+#EXTINF:-1 tvg-id="FoxAction.mx" tvg-name="Fox Action MX HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-action-hd.gif" group-title="HD",Fox Action HD
+http://158.69.52.43:8000/live/elecuy/3844/116.m3u8
+#EXTINF:-1 tvg-id="FoxInternational.mx" tvg-name="Fox MX HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox.gif" group-title="HD",Fox HD
+http://158.69.52.43:8000/live/elecuy/3844/123.m3u8
+#EXTINF:-1 tvg-id="FoxMovies.mx" tvg-name="Fox Movies MX HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-movies-hd.gif" group-title="HD",Fox Movies HD
+http://158.69.52.43:8000/live/elecuy/3844/115.m3u8
+#EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="Fox Sports MX HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-sports-hd.gif" group-title="HD",Fox Sports HD
+http://158.69.52.43:8000/live/elecuy/3844/118.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="Fox Sports 2 MX HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-sports-2-hd.gif" group-title="HD",Fox Sports 2 HD
+http://158.69.52.43:8000/live/elecuy/3844/151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FUSION" tvg-logo="" group-title="HD",FUSION HD
+http://158.69.52.43:8000/live/elecuy/3844/3859.m3u8
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX MX HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fx-hd.gif" group-title="HD",FX HD
+http://158.69.52.43:8000/live/elecuy/3844/132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FXM HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/fx-movies-hd.gif" group-title="HD",FXM HD
+http://158.69.52.43:8000/live/elecuy/3844/4209.m3u8
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden MX HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/golden-hd.gif" group-title="HD",Golden HD
+http://158.69.52.43:8000/live/elecuy/3844/122.m3u8
+#EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="History Channel MX HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/history-hd.gif" group-title="HD",History Channel HD
+http://158.69.52.43:8000/live/elecuy/3844/127.m3u8
+#EXTINF:-1 tvg-id="HolaTv.co" tvg-name="Hola TV HD" tvg-logo="https://s32.postimg.org/u5dyinul1/hola_revista_logo.png" group-title="HD",Hola TV HD
+http://158.69.52.43:8000/live/elecuy/3844/682.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/hbo-hd.gif" group-title="HD",HBO HD
+http://158.69.52.43:8000/live/elecuy/3844/3099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/hbo-2.gif" group-title="HD" ,HBO 2 HD
+http://158.69.52.43:8000/live/elecuy/3844/4557.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/investigacion-discovery.gif" group-title="HD",ID HD
+http://158.69.52.43:8000/live/elecuy/3844/3537.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas MX HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_08/rojo2.png.97a0e3046d89aefbf962b031b77222d6.png" group-title="HD",Las Estrellas HD
+http://158.69.52.43:8000/live/elecuy/3844/150.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB NETWORK HD" tvg-logo="http://static.iptv-epg.com/us/MLBNetwork.us.png" group-title="HD",MLB NETWORK HD
+http://158.69.52.43:8000/live/elecuy/3844/1453.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/mtv.gif" group-title="HD",MTV HD
+http://158.69.52.43:8000/live/elecuy/3844/3857.m3u8
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV Life HD" tvg-logo="http://static.iptv-epg.com/us/MTVLive.us.png" group-title="HD",MTV Life HD
+http://158.69.52.43:8000/live/elecuy/3844/121.m3u8
+#EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="National Geographic MX  HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/natgeo.gif" group-title="HD",National Geographic HD
+http://158.69.52.43:8000/live/elecuy/3844/687.m3u8
+#EXTINF:-1 tvg-id="NBCUniverso.us" tvg-name="NBC UNIVERSO HD" tvg-logo="http://static.iptv-epg.com/us/NBCUniverso.us.png" group-title="HD",NBC UNIVERSO HD
+http://158.69.52.43:8000/live/elecuy/3844/1456.m3u8
+#EXTINF:-1 tvg-id="NickJr..mx" tvg-name="Nick Jr HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/nick-jr.gif" group-title="HD",Nick Jr HD
+http://158.69.52.43:8000/live/elecuy/3844/710.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="Nickelodeon MX HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/nickelodeon-nick.gif" group-title="HD",Nickelodeon MX HD
+http://158.69.52.43:8000/live/elecuy/3844/705.m3u8
+#EXTINF:-1 tvg-id="ORF1.at" tvg-name="F1 HD" tvg-logo="http://static.iptv-epg.com/at/ORF1.at.png" group-title="HD",F1 HD
+http://158.69.52.43:8000/live/elecuy/3844/155.m3u8
+#EXTINF:-1 tvg-id="Ritmoson.mx" tvg-name="Ritmoson MX HD" tvg-logo="http://i.imgur.com/BIGriW6.png" group-title="HD",Ritmoson MX HD
+http://158.69.52.43:8000/live/elecuy/3844/752.m3u8
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="SPACE HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/space-hd.gif" group-title="HD",SPACE HD
+http://158.69.52.43:8000/live/elecuy/3844/156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE CHANNEL HD" tvg-logo="" group-title="HD",SUNDANCE CHANNEL HD
+http://158.69.52.43:8000/live/elecuy/3844/3855.m3u8
+#EXTINF:-1 tvg-id="Syfy.mx" tvg-name="Syfy HD MX" tvg-logo="http://z.cdn.entutele.com/media/channels/big/syfy.gif" group-title="HD",Syfy HD
+http://158.69.52.43:8000/live/elecuy/3844/872.m3u8
+#EXTINF:-1 tvg-id="Telehit.mx" tvg-name="Telehit MX HD" tvg-logo="https://s6.postimg.org/wsbsn70b5/telehit.png" group-title="HD",Telehit MX HD
+http://158.69.52.43:8000/live/elecuy/3844/753.m3u8
+#EXTINF:-1 tvg-id="TiiN.mx" tvg-name="TIIN HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/tiin.gif" group-title="HD",TIIN HD
+http://158.69.52.43:8000/live/elecuy/3844/713.m3u8
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT MX HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/tnt-hd.gif" group-title="HD",TNT HD
+http://158.69.52.43:8000/live/elecuy/3844/129.m3u8
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series MX HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/tnt-series.gif" group-title="HD",TNT Series HD
+http://158.69.52.43:8000/live/elecuy/3844/128.m3u8
+#EXTINF:-1 tvg-id="TRUTV.ar" tvg-name="TRUTV HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/trutv-hd.gif" group-title="HD",TRUTV HD
+http://158.69.52.43:8000/live/elecuy/3844/133.m3u8
+#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/unicable-hd.gif" group-title="HD",Unicable HD
+http://158.69.52.43:8000/live/elecuy/3844/662.m3u8
+#EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="Universal Channel MX HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/universal-hd.gif" group-title="HD",Universal Channel HD
+http://158.69.52.43:8000/live/elecuy/3844/131.m3u8
+#EXTINF:-1 tvg-id="Univision.co" tvg-name="Univision HD" tvg-logo="https://s6.postimg.org/9mu32qonl/univision.png" group-title="HD",Univision HD
+http://158.69.52.43:8000/live/elecuy/3844/1455.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner Channel MX HD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/warner-hd.gif" group-title="HD",Warner Channel HD
+http://158.69.52.43:8000/live/elecuy/3844/130.m3u8

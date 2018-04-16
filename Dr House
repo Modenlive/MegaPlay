@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-tVVK739GnHA/WYDBNOTo_FI/AAAAAAAABX0/XsftAuiPMD81n7zsBzZnyqAn7Go2qO3WQCK4BGAYYCw/s1600/Peliculas.jpg",[COLOR red]# #   [COLOR red]Dr House   [COLOR red][COLOR red]# #[/COLOR]
+http://elecdeka.com
 #EXTINF:-1 tvg-id="" tvg-name="Todo el mundo miente" tvg-logo="http://latinchannel.tv:8000/images/6122.jpg" group-title="Dr House",[COLOR blue]#  [/COLOR]Todo el mundo miente
 http://latinchannel.tv:8000/series/ANABEL/AxaKajXC67/6122.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Paternidad" tvg-logo="http://latinchannel.tv:8000/images/6123.jpg" group-title="Dr House",[COLOR blue]#  [/COLOR]Paternidad

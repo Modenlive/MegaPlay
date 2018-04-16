@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-tVVK739GnHA/WYDBNOTo_FI/AAAAAAAABX0/XsftAuiPMD81n7zsBzZnyqAn7Go2qO3WQCK4BGAYYCw/s1600/Peliculas.jpg",[COLOR red]# #   [COLOR red]Game of Thrones   [COLOR red][COLOR red]# #[/COLOR]
+http://elecdeka.com
 #EXTINF:-1 tvg-id="" tvg-name="Se acerca el invierno" tvg-logo="http://latinchannel.tv:8000/images/6688.jpg" group-title="Game Of Thrones",[COLOR blue]#  [/COLOR]Se acerca el invierno
 http://latinchannel.tv:8000/series/ANABEL/AxaKajXC67/6688.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Camino Real" tvg-logo="http://latinchannel.tv:8000/images/6689.jpg" group-title="Game Of Thrones",[COLOR blue]#  [/COLOR]El Camino Real

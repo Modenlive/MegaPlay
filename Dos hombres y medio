@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-tVVK739GnHA/WYDBNOTo_FI/AAAAAAAABX0/XsftAuiPMD81n7zsBzZnyqAn7Go2qO3WQCK4BGAYYCw/s1600/Peliculas.jpg",[COLOR red]# #   [COLOR red]Dos hombres y medio   [COLOR red][COLOR red]# #[/COLOR]
+http://elecdeka.com
 #EXTINF:-1 tvg-id="" tvg-name="Piloto" tvg-logo="http://latinchannel.tv:8000/images/5724.jpg" group-title="Dos Hombres Y Medio",[COLOR blue]#  [/COLOR]Piloto
 http://latinchannel.tv:8000/series/ANABEL/AxaKajXC67/5724.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pajarracos" tvg-logo="http://latinchannel.tv:8000/images/5725.jpg" group-title="Dos Hombres Y Medio",[COLOR blue]#  [/COLOR]Pajarracos

@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-tVVK739GnHA/WYDBNOTo_FI/AAAAAAAABX0/XsftAuiPMD81n7zsBzZnyqAn7Go2qO3WQCK4BGAYYCw/s1600/Peliculas.jpg",[COLOR red]# #   [COLOR red]El Mentalista   [COLOR red][COLOR red]# #[/COLOR]
+#EXTINF:-1 tvg-logo="https://s26.postimg.cc/skp4sul95/Series.jpg",[COLOR red]# #   [COLOR red]El Mentalista   [COLOR red][COLOR red]# #[/COLOR]
 http://elecdeka.com
 #EXTINF:-1 tvg-id="" tvg-name="Piloto" tvg-logo="" group-title="El Mentalista",[COLOR blue]#  [/COLOR]Piloto
 http://latinchannel.tv:8000/series/ANABEL/AxaKajXC67/6305.mkv
